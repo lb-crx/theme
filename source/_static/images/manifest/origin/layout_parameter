@@ -1,0 +1,39 @@
+{
+  "border_thickness_pseudo": "1",
+  "browser_min_size": "500 250",
+
+  "logo_tip_offset": "-6 0",
+  "logo_flicker_offset": "-10 -8",
+  "logo_animation_rotate_frames": "36",
+  "logo_animation_rotate_duration": "1000",
+  "logo_animation_breath_frames": "18",
+  "logo_animation_breath_duration": "1000",
+
+  "logo_animation_breath_offset": "0",
+  "logo_animation_breath_max_offset": "0",
+  "logo_animation_rotate_offset": "0",
+  "logo_animation_rotate_max_offset": "0",
+
+  "tab_horz_fuzz": "10",
+  "tab_vert_fuzz": "7",
+  "inactive_tab_horizon_offset": "-1",
+  "active_tab_horizon_offset": "-1",
+  "hittest_as_noclientarea": "false",
+
+  "show_caption": "true",
+  "title_hide_when_max": "false",
+  "title_font_deltasize": "1",
+
+  "undo_btn_has_droparrow": "true",
+
+  "locationbar_height": "28",
+  "loctionbar_always_show_goto": "true",
+  "loctionbar_has_switch_core": "true",
+  "locationbar_ev_bubble_top_offset": "2",
+  "show_home_button": "false",
+
+  "bookmarkbar_contents": "2 5 2",
+  "locationbar_contents": "0 1 0 1",
+  "searchbar_contents": "6 1 0 1",
+  "wrench_menu_btn_spacing": "1"
+}
