@@ -40,7 +40,7 @@ $(document).ready(function(){
             //$(this).attr("href", "https://bitbucket.org/ZoomQuiet/obp.rwiwpyzh/issues/new");
             //$(this).attr("href", "http://code.google.com/p/openbookproject/issues/entry?template=User%20defect%20report&summary={RWIwPy}"+encodeURIComponent(sub)+"+"+encodeURIComponent(body));
             $(this).attr("href"
-                , "https://github.com/lb-crx/doc/issues/new?title={crxdoczh}"+encodeURIComponent(sub));
+                , "https://github.com/lb-crx/theme/issues/new?title={lb-theme}"+encodeURIComponent(sub));
             $(this).attr("target", "_blank");
         }
     }, function(){
