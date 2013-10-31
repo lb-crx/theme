@@ -590,40 +590,56 @@
     - 建议尺寸:
 
 
-- theme_menu_title_tab_button_main_h
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
 - theme_menu_title_tab_button_main_n
 
     - 作用区间:
+        普通态时，头像菜单中“选项”标签的图标。
     - 关联图片:
+        .. _origin_theme_menu_title_tab_button_main_n:
+        .. figure:: ../_static/images/manifest/origin/menu_title_tab_button_main_n.png
     - 效果截屏:
+        .. _theme_menu_title_tab_button_main_n:
+        .. figure:: ../_static/images/manifest/theme_menu_title_tab_button_main_n.jpg
     - 建议尺寸:
-    - 其它: `.9图` 规则
+
+
+- theme_menu_title_tab_button_main_h
+
+    - 作用区间:
+        普通态时，头像菜单中“选项”标签的图标。
+    - 关联图片:
+        .. _origin_theme_menu_title_tab_button_main_h:
+        .. figure:: ../_static/images/manifest/origin/menu_title_tab_button_main_h.png
+    - 效果截屏:
+        .. _theme_menu_title_tab_button_main_h:
+        .. figure:: ../_static/images/manifest/theme_menu_title_tab_button_main_n.jpg
+    - 建议尺寸:
 
 
 - theme_menu_title_tab_button_main_p
 
     - 作用区间:
+        普通态时，头像菜单中“选项”标签的图标。
     - 关联图片:
+        .. _origin_theme_menu_title_tab_button_main_p:
+        .. figure:: ../_static/images/manifest/origin/menu_title_tab_button_main_p.png
     - 效果截屏:
+        .. _theme_menu_title_tab_button_main_p:
+        .. figure:: ../_static/images/manifest/theme_menu_title_tab_button_main_p.jpg
     - 建议尺寸:
-    - 其它: `.9图` 规则
 
 
 - theme_menu_title_tab_splite
 
     - 作用区间:
+        头像菜单中“选项”标签与“云同步”标签之间分隔线的图标。
     - 关联图片:
+        .. _origin_theme_menu_title_tab_button_main_p:
+        .. figure:: ../_static/images/manifest/origin/menu_title_tab_button_main_p.png
     - 效果截屏:
+        .. _theme_menu_title_tab_button_main_p:
+        .. figure:: ../_static/images/manifest/theme_menu_title_tab_button_main_p.jpg
     - 建议尺寸:
-    - 其它: `.9图` 规则
 
 
 - theme_menu_title_user_name_marker
