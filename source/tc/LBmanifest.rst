@@ -686,13 +686,14 @@
     - 其它: `.9图` 规则
 
 
-- theme_location_bar_back_d
+- theme_location_bar_back_n
 
     - 作用区间:
     - 关联图片:
     - 效果截屏:
     - 建议尺寸:
     - 其它: `.9图` 规则
+
 
 
 - theme_location_bar_back_h
@@ -704,7 +705,7 @@
     - 其它: `.9图` 规则
 
 
-- theme_location_bar_back_n
+- theme_location_bar_back_d
 
     - 作用区间:
     - 关联图片:
@@ -1548,10 +1549,15 @@
 - throbber_waiting
 
     - 作用区间:
+        登录成功并开始导入用户的云端记录时，当前标签页 favicon 的显示样式。
+        此图片为组合图片，通过向左平移此图片的位置来模拟载入过程。
     - 关联图片:
+        .. _origin_throbber_waiting:
+        .. figure:: ../_static/images/manifest/origin/loading.png
     - 效果截屏:
+        .. _theme_menu_cloud_item_sync_loading:
+        .. figure:: ../_static/images/manifest/throbber_waiting.jpg
     - 建议尺寸:
-    - 其它: `.9图` 规则
 
 
 - bookmark_bar_folder
