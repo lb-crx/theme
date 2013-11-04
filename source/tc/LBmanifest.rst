@@ -645,19 +645,27 @@
 - theme_menu_title_user_name_marker
 
     - 作用区间:
+        登录成功后，头像菜单中用户名下拉三角图片。
     - 关联图片:
+        .. _origin_theme_menu_title_user_name_marker:
+        .. figure:: ../_static/images/manifest/origin/menu_title_user_name_marker.png
     - 效果截屏:
+        .. _theme_menu_title_user_name_marker:
+        .. figure:: ../_static/images/manifest/theme_menu_title_user_name_marker.jpg
     - 建议尺寸:
-    - 其它: `.9图` 规则
 
 
 - theme_menu_title_user_name_hover
 
     - 作用区间:
+        登录成功后，头像菜单中用户名 hover 状态的显示样式。
     - 关联图片:
+        .. _origin_theme_menu_title_user_name_hover:
+        .. figure:: ../_static/images/manifest/origin/menu_title_user_name_hover.png
     - 效果截屏:
+        .. _theme_menu_title_user_name_hover:
+        .. figure:: ../_static/images/manifest/theme_menu_title_user_name_hover.jpg
     - 建议尺寸:
-    - 其它: `.9图` 规则
 
 
 - theme_menu_cloud_item_bookmark
