@@ -689,38 +689,54 @@
 - theme_location_bar_back_n
 
     - 作用区间:
+        普通态时，后退按钮的图片样式。
     - 关联图片:
+        .. _origin_theme_location_bar_back_n:
+        .. figure:: ../_static/images/manifest/origin/location_bar_back_n.png
     - 效果截屏:
+        .. _theme_location_bar_back_n:
+        .. figure:: ../_static/images/manifest/theme_location_bar_back_n.jpg
     - 建议尺寸:
-    - 其它: `.9图` 规则
 
 
 
 - theme_location_bar_back_h
 
     - 作用区间:
+        鼠标 hover 态时，后退按钮的图片样式。
     - 关联图片:
+        .. _origin_theme_location_bar_back_h:
+        .. figure:: ../_static/images/manifest/origin/location_bar_back_h.png
     - 效果截屏:
+        .. _theme_location_bar_back_h:
+        .. figure:: ../_static/images/manifest/theme_location_bar_back_h.jpg
     - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-- theme_location_bar_back_d
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
 
 
 - theme_location_bar_back_p
 
     - 作用区间:
+        鼠标按下态时，后退按钮的图片样式。
     - 关联图片:
+        .. _origin_theme_location_bar_back_p:
+        .. figure:: ../_static/images/manifest/origin/location_bar_back_p.png
     - 效果截屏:
+        .. _theme_location_bar_back_p:
+        .. figure:: ../_static/images/manifest/theme_location_bar_back_p.jpg
     - 建议尺寸:
-    - 其它: `.9图` 规则
+
+
+- theme_location_bar_back_d
+
+    - 作用区间:
+        disable 状态时，后退按钮的图片样式。
+    - 关联图片:
+        .. _origin_theme_location_bar_back_d:
+        .. figure:: ../_static/images/manifest/origin/location_bar_back_d.png
+    - 效果截屏:
+        .. _theme_location_bar_back_d:
+        .. figure:: ../_static/images/manifest/theme_location_bar_back_d.jpg
+    - 建议尺寸:
 
 
 - theme_location_bar_border_focus
