@@ -6,14 +6,14 @@
 猎豹皮肤概述
 ==============================================================================
 
-.. |themes1| image:: ../_static/images/themes-1.gif
-.. |themes2| image:: ../_static/images/themes-2.gif
-.. |themes3| image:: ../_static/images/themes-3.gif
+.. |themes1| image:: ../_static/images/themes-1.png
+.. |themes2| image:: ../_static/images/themes-2.png
+.. |themes3| image:: ../_static/images/themes-3.png
 
 皮肤样式是一种特殊的扩展程序，可以改变浏览器的外观。
 皮肤样式的打包与普通的扩展程序类似，只是不含 `JavaScript`_ 或 `HTML`_ 代码。
 
-您可以在 `Chrome主题皮肤店`_ 中寻找与尝试各种主题背景:
+您可以在 `猎豹皮肤中心 <http://www.liebao.cn/skin/>`_ 中寻找与尝试各种主题背景:
 
 =========== =========== ===========
  |themes1|   |themes2|   |themes3|
@@ -74,16 +74,12 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 图像资源使用相对于扩展根目录的路径。
-可替换 `theme_service.cc <http://src.chromium.org/viewvc/chrome/trunk/src/chrome/browser/themes/theme_service.cc>`_
-文件中 `kThemeableImages` 指定的任何图片，只要将“IDR_”删除并将剩余字符转换为小写。
-例如，`IDR_THEME_NTP_BACKGROUND`
-（ `kThemeableImages` 用来指定新标签栏的背景）
-对应"theme_ntp_background"。
+
 
 主题样式扩展中,应用中可替换图片备查,参考:
 
-- :ref:`样式创建导引 <chapter5TCG>`
-- :ref:`样式规格手册 <chapter5TReference>`
+- :ref:`猎豹皮肤关键参数定制说明 <chapter5TCG>`
+- :ref:`manifest.json 详解 <chapterLBmanifest>`
 
 
 
@@ -100,7 +96,7 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 我们也可以指定应用于用户界面某些部分的色调，例如按钮框架和后台标签页。
-Google Chrome浏览器支持色调而不是图片，因为图片不一定能跨平台使用，并且在增加新按钮时不适用。
+`猎豹浏览器`_ 支持色调而不是图片，因为图片不一定能跨平台使用，并且在增加新按钮时不适用。
 有关您可以在"tints"中使用的字符串，在 `theme_service.cc中` 寻找 `kTint*`字符串。
 
 
@@ -121,10 +117,6 @@ Google Chrome浏览器支持色调而不是图片，因为图片不一定能跨�
 - `Theme Creation Guide <http://code.google.com/p/chromium/wiki/ThemeCreationGuide>`_
 - `Chrome Theme Reference <https://docs.google.com/Doc?docid=0Aa86IE02TBXPZGtzZDU0NV85ZnFocnQzZGo>`_
     
-翻译:
-
-- :ref:`样式创建导引 <chapter5TCG>`
-- :ref:`样式规格手册 <chapter5TReference>`
 
 
 .. seealso:: (^.^)
