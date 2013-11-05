@@ -61,64 +61,75 @@
    * - 标号
      - 说明
      - manifest.json 参数
-   * - 10
-     - frame 的颜色，包括较小的外框
-     - :ref:`"frame" <TCG-Frame>`
-   * - 10.1
-     - 相同元素的颜色，但是在非活动模式
-     - :ref:`"frame_inactive" <TCG-Frame_inactive>`
-   * - 10.2
-     - 相同元素的颜色，但是在隐身模式
-     - :ref:`"frame_incognito" <TCG-Frame_incognito>`
-   * - 10.3
-     - 相同元素的颜色，但是在非活动模式和隐身模式
-     - :ref:`"frame_incognito_inactive" <TCG-Frame_incognito_inactive>`
-   * - 10.4
-     - 工具栏的背景颜色（按下Ctrl+B可显示）
-     - :ref:`"toolbar" <TCG-toolbar>`
-   * - 11
-     - 文字颜色，当前选项卡的标题中
-     - :ref:`"tab_text" <TCG-tab_text>`
-   * - 12
-     - 文字颜色，所有的非活动选项卡的标题中
-     - :ref:`"tab_background_text" <TCG-tab_background_text>`
-   * - 13
-     - 书签元素文字的颜色
-     - :ref:`"bookmark_text" <TCG-bookmark_text>`
-   * - 14
-     - 主题内的背景颜色
-     - :ref:`"ntp_background" <TCG-ntp_background>`
-   * - 14.1
-     - “常去网站”区域内出现的所有文字的颜色
-     - :ref:`"ntp_text" <TCG-ntp_text>`
-   * - 14.2
-     - “常去网站”区域出现的所有链接的颜色
-     - :ref:`"ntp_link" <TCG-ntp_link>`
-   * - 14.3
-     - 新开选项卡内所有链接的下划线的颜色
-     - :ref:`"ntp_link_underline" <TCG-ntp_link_underline>`
-   * - 14.4
-     - 当鼠标划过时常去网站 frame 的颜色
-     - :ref:`"ntp_header" <TCG-ntp_header>`
-   * - 14.5
-     - “最近关闭”区域的背景颜色和快速链接的 frame颜色
-     - :ref:`"ntp_section" <TCG-ntp_section>`
-   * - 14.6
-     - section 内的文字颜色
-     - :ref:`"ntp_section_text" <TCG-ntp_section_text>`
-   * - 14.7 
-     - section 区域内的链接颜色
-     - :ref:`"ntp_section_link" <TCG-ntp_section_link>`
-   * - 14.8
-     - section 区域内链接下划线的颜色
-     - :ref:`"ntp_section_link_underline" <TCG-ntp_section_link_underline>`
-   * - 15
-     - 未确定 - 窗口控制按钮的颜色（关闭、最大化等等）
-     - :ref:`"control_background" <TCG-control_background>`
-   * - 16
-     - 工具栏所有按钮的背景颜色
-     - :ref:`"button_background" <TCG-button_background>`
-
+   * - 1
+     - some define
+     - :ref:`"tab_text" <LBMF-tab_text>`
+   * - 1
+     - some define
+     - :ref:`"tab_background_text" <LBMF-tab_background_text>`
+   * - 1
+     - some define
+     - :ref:`"typical_frame_color" <LBMF-typical_frame_color>`
+   * - 1
+     - some define
+     - :ref:`"typical_frame_color_inactive" <LBMF-typical_frame_color_inactive>`
+   * - 1
+     - some define
+     - :ref:`"color_bookmark_text" <LBMF-color_bookmark_text>`
+   * - 1
+     - some define
+     - :ref:`"color_bookmark_hov_text" <LBMF-color_bookmark_hov_text>`
+   * - 1
+     - some define
+     - :ref:`"color_bookmark_high_text" <LBMF-color_bookmark_high_text>`
+   * - 1
+     - some define
+     - :ref:`"color_status_text" <LBMF-color_status_text>`
+   * - 1
+     - some define
+     - :ref:`"color_status_background" <LBMF-color_status_background>`
+   * - 1
+     - some define
+     - :ref:`"bookmark_text" <LBMF-bookmark_text>`
+   * - 1
+     - some define
+     - :ref:`"bookmark_press_link" <LBMF-bookmark_press_link>`
+   * - 1
+     - some define
+     - :ref:`"color_locationbar_resulturl_texthighlight" <LBMF-color_locationbar_resulturl_texthighlight>`
+   * - 1
+     - some define
+     - :ref:`"color_user_login_link_text" <LBMF-color_user_login_link_text>`
+   * - 1
+     - some define
+     - :ref:`"color_button_text_n" <LBMF-color_button_text_n>`
+   * - 1
+     - some define
+     - :ref:`"color_button_text_h" <LBMF-color_button_text_h>`
+   * - 1
+     - some define
+     - :ref:`"color_button_text_p" <LBMF-color_button_text_p>`
+   * - 1
+     - some define
+     - :ref:`"color_button_text_d" <LBMF-color_button_text_d>`
+   * - 1
+     - some define
+     - :ref:`"color_mainmenu_text" <LBMF-color_mainmenu_text>`
+   * - 1
+     - some define
+     - :ref:`"color_title_text" <LBMF-color_title_text>`
+   * - 1
+     - some define
+     - :ref:`"status_bar_text_color" <LBMF-status_bar_text_color>`
+   * - 1
+     - some define
+     - :ref:`"color_menu_title_user_name" <LBMF-color_menu_title_user_name>`
+   * - 1
+     - some define
+     - :ref:`"color_menu_title_description" <LBMF-color_menu_title_description>`
+   * - 1
+     - some define
+     - :ref:`"color_menu_title_text_prompt" <LBMF-color_menu_title_text_prompt>`
 
 
 图片 Image Elements
