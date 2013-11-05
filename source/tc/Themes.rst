@@ -60,7 +60,7 @@
 
 颜色   
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-颜色以RGB形式表示。
+颜色以RGB形式表示，在 manifest.json 配置文件中的格式是 `[R, G, B]`，例如：紫罗兰色（#EE82EE）书写格式为 `[238, 130, 238]`。
 可以在
 `theme_service.cc <http://src.chromium.org/viewvc/chrome/trunk/src/chrome/browser/themes/theme_service.cc>`_
 文件中 `kColor*` 字串部分找到可以在此使用的字符串。
