@@ -46,81 +46,9 @@
 主题皮肤可定制元素
 ---------------------------------------------------------------------
 
-图片 Image Elements
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-图片元素在 :ref:`manifest.json <chapter3-manifest>` 中 `images` 一节定义
-
-.. list-table:: 图片元素
-   :widths: 5 25 10 10
-   :header-rows: 1
-
-   * - 标号
-     - 说明
-     - manifest.json 参数
-     - 建议尺寸(宽x高)
-   * - 1
-     - 顶部,Chrome 标签背景区域
-     - :ref:`"theme_frame" <TCG-theme_frame>`
-     - ∞ x 80
-   * - 1.1
-     - 区域同上,仅在不活跌时生效
-     - :ref:`"theme_frame_inactive" <TCG-theme_frame_inactive>`
-     - ~
-   * - 1.2
-     - 区域同上,但在"匿名模式"下窗口激活时生效
-     - :ref:`"theme_frame_incognito" <TCG-theme_frame_incognito>`
-     - ~
-   * - 1.3
-     - 区域同上,但在"匿名模式"下窗口不活跃时生效
-     - :ref:`"theme_frame_incognito_inactive" <TCG-theme_frame_incognito_inactive>`
-     - ~
-   * - 2
-     - 包含当前标签同工具栏一起的表现
-     - :ref:`"theme_toolbar" <TCG-theme_toolbar>`
-     - ∞ x 120
-   * - 3
-     - 覆盖所有未激活标签区域
-     - :ref:`"theme_tab_background" <TCG-theme_tab_background>`
-     - ∞ x 65
-   * - 3.1
-     - 区域同上,但浏览器在"匿名模式"下
-     - :ref:`"theme_tab_background_incognito" <TCG-theme_tab_background_incognito>`
-     - ~
-   * - 4
-     - 标签背景,可以容纳各种事务*(规划中)
-     - :ref:`"theme_tab_background_v" <TCG-theme_tab_background_v>`
-     - ~
-   * - 5
-     - 是主题样式的最大背景
-     - :ref:`"theme_ntp_background" <TCG-theme_ntp_background>`
-     - 最小也应是: 800x600
-   * - 6
-     - 在frame 左侧顶层显示的图片
-     - :ref:`"theme_frame_overlay" <TCG-theme_frame_overlay>`
-     - 110 x 40
-   * - 6.1
-     - 区域同前,仅在窗口不活跃时生效
-     - :ref:`"theme_frame_overlay_inactive" <TCG-theme_frame_overlay_inactive>`
-     - ~
-   * - 7
-     - 标签工具栏按钮背景
-     - :ref:`"theme_button_background" <TCG-theme_button_background>`
-     - 30 x 30
-   * - 8
-     - 此图片将显示在"theme created by" 一节
-     - :ref:`"theme_ntp_attribution" <TCG-theme_ntp_attribution>`
-     - ~
-   * - 9
-     - 窗口控制按钮背景(关闭,最小,,,)
-     - :ref:`"theme_window_control_background" <TCG-theme_window_control_background>`
-     - ~
-
-
-
 
 颜色元素 Color Elements
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 颜色元素被定义在manifes.json文件的“colors”块。
 
@@ -190,6 +118,78 @@
    * - 16
      - 工具栏所有按钮的背景颜色
      - :ref:`"button_background" <TCG-button_background>`
+
+
+
+图片 Image Elements
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+图片元素在 :ref:`manifest.json <chapter3-manifest>` 中 `images` 一节定义
+
+.. list-table:: 图片元素
+   :widths: 5 25 10 10
+   :header-rows: 1
+
+   * - 标号
+     - 说明
+     - manifest.json 参数
+     - 建议尺寸(宽x高)
+   * - 1
+     - 顶部,Chrome 标签背景区域
+     - :ref:`"theme_frame" <TCG-theme_frame>`
+     - ∞ x 80
+   * - 1.1
+     - 区域同上,仅在不活跌时生效
+     - :ref:`"theme_frame_inactive" <TCG-theme_frame_inactive>`
+     - ~
+   * - 1.2
+     - 区域同上,但在"匿名模式"下窗口激活时生效
+     - :ref:`"theme_frame_incognito" <TCG-theme_frame_incognito>`
+     - ~
+   * - 1.3
+     - 区域同上,但在"匿名模式"下窗口不活跃时生效
+     - :ref:`"theme_frame_incognito_inactive" <TCG-theme_frame_incognito_inactive>`
+     - ~
+   * - 2
+     - 包含当前标签同工具栏一起的表现
+     - :ref:`"theme_toolbar" <TCG-theme_toolbar>`
+     - ∞ x 120
+   * - 3
+     - 覆盖所有未激活标签区域
+     - :ref:`"theme_tab_background" <TCG-theme_tab_background>`
+     - ∞ x 65
+   * - 3.1
+     - 区域同上,但浏览器在"匿名模式"下
+     - :ref:`"theme_tab_background_incognito" <TCG-theme_tab_background_incognito>`
+     - ~
+   * - 4
+     - 标签背景,可以容纳各种事务*(规划中)
+     - :ref:`"theme_tab_background_v" <TCG-theme_tab_background_v>`
+     - ~
+   * - 5
+     - 是主题样式的最大背景
+     - :ref:`"theme_ntp_background" <TCG-theme_ntp_background>`
+     - 最小也应是: 800x600
+   * - 6
+     - 在frame 左侧顶层显示的图片
+     - :ref:`"theme_frame_overlay" <TCG-theme_frame_overlay>`
+     - 110 x 40
+   * - 6.1
+     - 区域同前,仅在窗口不活跃时生效
+     - :ref:`"theme_frame_overlay_inactive" <TCG-theme_frame_overlay_inactive>`
+     - ~
+   * - 7
+     - 标签工具栏按钮背景
+     - :ref:`"theme_button_background" <TCG-theme_button_background>`
+     - 30 x 30
+   * - 8
+     - 此图片将显示在"theme created by" 一节
+     - :ref:`"theme_ntp_attribution" <TCG-theme_ntp_attribution>`
+     - ~
+   * - 9
+     - 窗口控制按钮背景(关闭,最小,,,)
+     - :ref:`"theme_window_control_background" <TCG-theme_window_control_background>`
+     - ~
 
 
 着色元素 Tint Elements
