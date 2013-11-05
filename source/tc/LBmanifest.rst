@@ -742,10 +742,16 @@
 - theme_location_bar_border_focus
 
     - 作用区间:
+        普通态时，地址栏输入框的图片样式。
     - 关联图片:
+        .. _origin_theme_location_bar_border_focus:
+        .. figure:: ../_static/images/manifest/origin/location_bar_border_focus.png
     - 效果截屏:
+        .. _theme_location_bar_border_focus:
+        .. figure:: ../_static/images/manifest/theme_location_bar_border_focus.jpg
     - 建议尺寸:
-    - 其它: `.9图` 规则
+    - 其它:
+        `.9图` 规则
 
 
 - theme_location_bar_border_only_focus
