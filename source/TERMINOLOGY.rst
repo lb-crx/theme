@@ -1,6 +1,5 @@
 .. include:: LINKS.rst
 
-.. include:: HelloThere.rst
 
 
 术语

@@ -3,8 +3,8 @@
 
 
 工程:
-    - 仓库: ruby:/data/repo/lbdoc.git
-    - 发布: http://ruby/doc
+    - 仓库: https://github.com/lb-crx/theme
+    - 发布: http://doc.crxpower.org
     - 流程: `OBP流程`_
     - 掺合: `OBP参与`_
 
