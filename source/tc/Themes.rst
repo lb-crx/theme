@@ -65,7 +65,7 @@
 `theme_service.cc <http://src.chromium.org/viewvc/chrome/trunk/src/chrome/browser/themes/theme_service.cc>`_
 文件中 `kColor*` 字串部分找到可以在此使用的字符串。
 
-相关文件：:download:`theme_service.cc <_static/themes/theme_service.cc>`.
+相关文件：:download:`theme_service.cc <../_static/themes/theme_service.cc>`.
 
 
 
