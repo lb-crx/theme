@@ -61,7 +61,9 @@ demo: clasc's layout_parameter
       "undo_btn_has_droparrow": "true",
 
       "locationbar_height": "28",
+      地址输入栏的高度，没特殊需求不建议修改，删除改句即为保持默认
       "loctionbar_always_show_goto": "true",
+      是否一直显示”转入“按钮，即地址栏右边的向右箭头
       "loctionbar_has_switch_core": "true",
       "locationbar_ev_bubble_top_offset": "2",
       "show_home_button": "false",
