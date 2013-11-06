@@ -1116,27 +1116,19 @@
 
 
 
-.. _LBMF-theme_location_bar_forward_withpay_h:
-
-- theme_location_bar_forward_withpay_h
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
 .. _LBMF-theme_location_bar_forward_withpay_n:
 
 - theme_location_bar_forward_withpay_n
 
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
+    - 此配置项与 :ref:`"theme_location_bar_forward_n" <LBMF-theme_location_bar_forward_n>` 相同。
+
+
+
+.. _LBMF-theme_location_bar_forward_withpay_h:
+
+- theme_location_bar_forward_withpay_h
+
+    - 此配置项与 :ref:`"theme_location_bar_forward_h" <LBMF-theme_location_bar_forward_h>` 相同。
 
 
 
@@ -1144,11 +1136,7 @@
 
 - theme_location_bar_forward_withpay_p
 
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
+    - 此配置项与 :ref:`"theme_location_bar_forward_p" <LBMF-theme_location_bar_forward_p>` 相同。
 
 
 
