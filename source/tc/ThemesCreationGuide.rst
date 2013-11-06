@@ -22,7 +22,7 @@
 
 
 .. _fig_5_t_1:
-.. figure:: ../_static/themes/crx-reference-screenhp.jpg
+.. figure:: ../_static/themes/lb-crx-reference-screenhp.png
 
     主题皮肤可定制元素索引
 
