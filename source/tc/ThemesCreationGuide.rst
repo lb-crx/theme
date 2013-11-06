@@ -61,74 +61,74 @@
    * - 标号
      - 说明
      - manifest.json 参数
-   * - 1
-     - some define
+   * - 1.1
+     - 当前选中标签的文字颜色
      - :ref:`"tab_text" <LBMF-tab_text>`
-   * - 1
-     - some define
+   * - 1.2
+     - 未选中标签的文字颜色
      - :ref:`"tab_background_text" <LBMF-tab_background_text>`
-   * - 1
+   * - 2.1
      - some define
      - :ref:`"typical_frame_color" <LBMF-typical_frame_color>`
-   * - 1
+   * - 2.2
      - some define
      - :ref:`"typical_frame_color_inactive" <LBMF-typical_frame_color_inactive>`
-   * - 1
-     - some define
+   * - 3.1
+     - 普通状态时的收藏栏文字的颜色
      - :ref:`"color_bookmark_text" <LBMF-color_bookmark_text>`
-   * - 1
-     - some define
+   * - 3.2
+     - 鼠标浮动状态时的收藏栏文字的颜色
      - :ref:`"color_bookmark_hov_text" <LBMF-color_bookmark_hov_text>`
-   * - 1
-     - some define
+   * - 3.3
+     - 当鼠标按下时的收藏栏文字的颜色
      - :ref:`"color_bookmark_high_text" <LBMF-color_bookmark_high_text>`
-   * - 1
-     - some define
+   * - 3.4
+     - 普通状态时状态栏的文字颜色
      - :ref:`"color_status_text" <LBMF-color_status_text>`
-   * - 1
-     - some define
+   * - 4
+     - 状态栏的背景颜色
      - :ref:`"color_status_background" <LBMF-color_status_background>`
-   * - 1
-     - some define
+   * - 5.1
+     - 普通状态时的“点击导入收藏”链接的文字颜色
      - :ref:`"bookmark_text" <LBMF-bookmark_text>`
-   * - 1
-     - some define
+   * - 5.2
+     - 鼠标按下状态时的“点击导入收藏”链接的文字颜色
      - :ref:`"bookmark_press_link" <LBMF-bookmark_press_link>`
-   * - 1
-     - some define
+   * - 6
+     - 地址栏输入下拉栏中高亮关键字的颜色
      - :ref:`"color_locationbar_resulturl_texthighlight" <LBMF-color_locationbar_resulturl_texthighlight>`
-   * - 1
+   * - 7
      - some define
      - :ref:`"color_user_login_link_text" <LBMF-color_user_login_link_text>`
-   * - 1
-     - some define
+   * - 8.1
+     - 普通态时通用按钮的文字颜色
      - :ref:`"color_button_text_n" <LBMF-color_button_text_n>`
-   * - 1
-     - some define
+   * - 8.2
+     - 鼠标 hover 时通用按钮的文字颜色
      - :ref:`"color_button_text_h" <LBMF-color_button_text_h>`
-   * - 1
-     - some define
+   * - 8.3
+     - 鼠标按下时通用按钮的文字颜色
      - :ref:`"color_button_text_p" <LBMF-color_button_text_p>`
-   * - 1
-     - some define
+   * - 8.4
+     - 禁止按下时通用按钮的文字颜色
      - :ref:`"color_button_text_d" <LBMF-color_button_text_d>`
-   * - 1
-     - some define
+   * - 9
+     - 浏览器菜单栏的文字颜色
      - :ref:`"color_mainmenu_text" <LBMF-color_mainmenu_text>`
-   * - 1
-     - some define
+   * - 10
+     - 网页标题文字的颜色
      - :ref:`"color_title_text" <LBMF-color_title_text>`
-   * - 1
-     - some define
+   * - 11
+     - 标签在地址栏下方时，状态栏的文字颜色
      - :ref:`"status_bar_text_color" <LBMF-status_bar_text_color>`
-   * - 1
-     - some define
+   * - 12
+     - 登陆账号成功后，头像菜单中用户名称的文字颜色
      - :ref:`"color_menu_title_user_name" <LBMF-color_menu_title_user_name>`
-   * - 1
-     - some define
+   * - 13
+     - 登陆账号成功后，显示的相关信息字体的颜色
      - :ref:`"color_menu_title_description" <LBMF-color_menu_title_description>`
-   * - 1
-     - some define
+   * - 14
+     - 处于离线状态时，“重新连接”文字的颜色
      - :ref:`"color_menu_title_text_prompt" <LBMF-color_menu_title_text_prompt>`
 
 
