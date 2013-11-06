@@ -1048,13 +1048,18 @@
 
 
 
-.. _LBMF-theme_location_bar_forward_d:
+.. _LBMF-theme_location_bar_forward_n:
 
-- theme_location_bar_forward_d
+- theme_location_bar_forward_n
 
     - 作用区间:
+        普通态时，前进按钮的图片。
     - 关联图片:
+        .. _origin_theme_location_bar_forward_n:
+        .. figure:: ../_static/images/manifest/origin/location_bar_forward_n.png
     - 效果截屏:
+        .. _theme_location_bar_forward_n:
+        .. figure:: ../_static/images/manifest/theme_location_bar_forward_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1065,20 +1070,13 @@
 - theme_location_bar_forward_h
 
     - 作用区间:
+        鼠标 hover 时，前进按钮的图片。
     - 关联图片:
+        .. _origin_theme_location_bar_forward_h:
+        .. figure:: ../_static/images/manifest/origin/location_bar_forward_h.png
     - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
-.. _LBMF-theme_location_bar_forward_n:
-
-- theme_location_bar_forward_n
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
+        .. _theme_location_bar_forward_h:
+        .. figure:: ../_static/images/manifest/theme_location_bar_forward_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1089,8 +1087,30 @@
 - theme_location_bar_forward_p
 
     - 作用区间:
+        鼠标按下时，前进按钮的图片。
     - 关联图片:
+        .. _origin_theme_location_bar_forward_p:
+        .. figure:: ../_static/images/manifest/origin/location_bar_forward_p.png
     - 效果截屏:
+        .. _theme_location_bar_forward_p:
+        .. figure:: ../_static/images/manifest/theme_location_bar_forward_p.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-theme_location_bar_forward_d:
+
+- theme_location_bar_forward_d
+
+    - 作用区间:
+        禁止按下时，前进按钮的图片。
+    - 关联图片:
+        .. _origin_theme_location_bar_forward_d:
+        .. figure:: ../_static/images/manifest/origin/location_bar_forward_d.png
+    - 效果截屏:
+        .. _theme_location_bar_forward_d:
+        .. figure:: ../_static/images/manifest/theme_location_bar_forward_d.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
