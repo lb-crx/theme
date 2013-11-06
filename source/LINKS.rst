@@ -115,3 +115,7 @@
 .. _OBP工程: http://code.google.com/p/openbookproject
 .. _OBP流程: http://code.google.com/p/openbookproject/wiki/FlowSphinx
 .. _OBP参与: http://code.google.com/p/openbookproject/wiki/HowtoJoin
+
+.. 猎豹论坛相关链接~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. _地址栏搜索栏切图: http://bbs.liebao.cn/thread-187793-1-1.html

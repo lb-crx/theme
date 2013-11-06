@@ -967,8 +967,14 @@
 - theme_location_bar_border_only_focus
 
     - 作用区间:
+        隐藏搜索栏时，地址栏的图片。猎豹浏览器可显示或隐藏“搜索栏”，故地址栏需做两种状态下的切图。当搜索栏显示时，地址栏切图右侧做成直角；当搜索栏不显示时，地址栏切图右侧做成圆角。搜索栏显示状态设置方法：菜单—>自定义界面—>显示搜索栏
+        具体的制作方法见 `地址栏搜索栏切图`_ 。
     - 关联图片:
+        .. _origin_theme_location_bar_border_only_focus:
+        .. figure:: ../_static/images/manifest/origin/location_bar_border_only_focus.png
     - 效果截屏:
+        .. _theme_location_bar_border_only_focus:
+        .. figure:: ../_static/images/manifest/theme_location_bar_border_only_focus.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
