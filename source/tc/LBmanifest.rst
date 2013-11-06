@@ -1657,11 +1657,44 @@
     - 其它: `.9图` 规则
 
 
-"multi_tab_preview_btn_n" : "i/multi_tab_preview_btn_n.png",
-"multi_tab_preview_btn_h" : "i/multi_tab_preview_btn_h.png",
-"multi_tab_preview_btn_p" : "i/multi_tab_preview_btn_p.png",
+.. _LBMF-multi_tab_preview_btn_n:
 
-.. _LBMF-"mmin_btn_u:nlti_tab_preview_btn_n_2" : "i/multi_tab_preview_btn_n_2.png",
+- multi_tab_preview_btn_n
+
+    - 作用区间:
+    - 关联图片:
+    - 效果截图:
+    - 建议尺寸:
+    - 其他: `.9图` 规则
+.. _LBMF-multi_tab_preview_btn_h:
+
+- multi_tab_preview_btn_h
+
+    - 作用区间:
+    - 关联图片:
+    - 效果截图:
+    - 建议尺寸:
+    - 其他: `.9图` 规则
+.. _LBMF-multi_tab_preview_btn_p:
+
+- multi_tab_preview_btn_p
+
+    - 作用区间:
+    - 关联图片:
+    - 效果截图:
+    - 建议尺寸:
+    - 其他: `.9图` 规则
+.. _LBMF-multi_tab_preview_btn_n_2:
+
+- multi_tab_preview_btn_n_2
+
+    - 作用区间:
+    - 关联图片:
+    - 效果截图:
+    - 建议尺寸:
+    - 其他: `.9图` 规则
+
+.. _LBMF-min_btn_n:
 
 - min_btn_n
 
