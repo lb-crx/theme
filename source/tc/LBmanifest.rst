@@ -1140,25 +1140,35 @@
 
 
 
-.. _LBMF-theme_location_bar_goto_h:
-
-- theme_location_bar_goto_h
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
 .. _LBMF-theme_location_bar_goto_n:
 
 - theme_location_bar_goto_n
 
     - 作用区间:
+        普通态时，地址栏转到的图片。
     - 关联图片:
+        .. _origin_theme_location_bar_goto_n:
+        .. figure:: ../_static/images/manifest/origin/location_bar_goto_n.png
     - 效果截屏:
+        .. _theme_location_bar_goto_n:
+        .. figure:: ../_static/images/manifest/theme_location_bar_goto_n.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-theme_location_bar_goto_h:
+
+- theme_location_bar_goto_h
+
+    - 作用区间:
+        鼠标 hover 时，地址栏转到的图片。
+    - 关联图片:
+        .. _origin_theme_location_bar_goto_h:
+        .. figure:: ../_static/images/manifest/origin/location_bar_goto_h.png
+    - 效果截屏:
+        .. _theme_location_bar_goto_h:
+        .. figure:: ../_static/images/manifest/theme_location_bar_goto_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1169,20 +1179,13 @@
 - theme_location_bar_goto_p
 
     - 作用区间:
+        鼠标按下时，地址栏转到的图片。
     - 关联图片:
+        .. _origin_theme_location_bar_goto_p:
+        .. figure:: ../_static/images/manifest/origin/location_bar_goto_p.png
     - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
-.. _LBMF-theme_location_bar_reload_h:
-
-- theme_location_bar_reload_h
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
+        .. _theme_location_bar_goto_p:
+        .. figure:: ../_static/images/manifest/theme_location_bar_goto_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1193,8 +1196,30 @@
 - theme_location_bar_reload_n
 
     - 作用区间:
+        鼠标按下时，地址栏刷新按钮的图片。
     - 关联图片:
+        .. _origin_theme_location_bar_reload_n:
+        .. figure:: ../_static/images/manifest/origin/location_bar_reload_n.png
     - 效果截屏:
+        .. _theme_location_bar_reload_n:
+        .. figure:: ../_static/images/manifest/theme_location_bar_reload_n.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-theme_location_bar_reload_h:
+
+- theme_location_bar_reload_h
+
+    - 作用区间:
+        鼠标按下时，地址栏刷新按钮的图片。
+    - 关联图片:
+        .. _origin_theme_location_bar_reload_h:
+        .. figure:: ../_static/images/manifest/origin/location_bar_reload_h.png
+    - 效果截屏:
+        .. _theme_location_bar_reload_h:
+        .. figure:: ../_static/images/manifest/theme_location_bar_reload_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1205,8 +1230,13 @@
 - theme_location_bar_reload_p
 
     - 作用区间:
+        鼠标按下时，地址栏刷新按钮的图片。
     - 关联图片:
+        .. _origin_theme_location_bar_reload_p:
+        .. figure:: ../_static/images/manifest/origin/location_bar_reload_p.png
     - 效果截屏:
+        .. _theme_location_bar_reload_p:
+        .. figure:: ../_static/images/manifest/theme_location_bar_reload_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1217,20 +1247,10 @@
 - theme_location_bar_reload_mask
 
     - 作用区间:
+        鼠标按下时，地址栏刷新按钮的图片。
     - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
-.. _LBMF-theme_location_bar_result_view_h_background:
-
-- theme_location_bar_result_view_h_background
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
+        .. _origin_theme_location_bar_reload_mask:
+        .. figure:: ../_static/images/manifest/origin/location_bar_reload_mask.png
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1241,8 +1261,30 @@
 - theme_location_bar_result_view_s_background
 
     - 作用区间:
+        普通态时，地址栏下拉条目背景。
     - 关联图片:
+        .. _origin_theme_location_bar_result_view_s_background:
+        .. figure:: ../_static/images/manifest/origin/location_bar_result_view_s_background.png
     - 效果截屏:
+        .. _theme_location_bar_result_view_s_background:
+        .. figure:: ../_static/images/manifest/theme_location_bar_result_view_s_background.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-theme_location_bar_result_view_h_background:
+
+- theme_location_bar_result_view_h_background
+
+    - 作用区间:
+        鼠标 hover 时，地址栏下拉条目背景。
+    - 关联图片:
+        .. _origin_theme_location_bar_result_view_h_background:
+        .. figure:: ../_static/images/manifest/origin/location_bar_result_view_h_background.png
+    - 效果截屏:
+        .. _theme_location_bar_result_view_h_background:
+        .. figure:: ../_static/images/manifest/theme_location_bar_result_view_h_background.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1253,8 +1295,13 @@
 - theme_location_bar_star
 
     - 作用区间:
+        地址栏“添加到收藏”按钮
     - 关联图片:
+        .. _origin_theme_theme_location_bar_star:
+        .. figure:: ../_static/images/manifest/origin/location_bar_star.png
     - 效果截屏:
+        .. _theme_theme_location_bar_star:
+        .. figure:: ../_static/images/manifest/theme_location_bar_star.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
