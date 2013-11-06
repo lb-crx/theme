@@ -980,25 +980,35 @@
 
 
 
-.. _LBMF-theme_location_bar_dropdown_button_h:
-
-- theme_location_bar_dropdown_button_h
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
 .. _LBMF-theme_location_bar_dropdown_button_n:
 
 - theme_location_bar_dropdown_button_n
 
     - 作用区间:
+        普通态时，地址栏下拉按钮图片。
     - 关联图片:
+        .. _origin_theme_location_bar_dropdown_button_n:
+        .. figure:: ../_static/images/manifest/origin/location_bar_dropdown_button_n.png
     - 效果截屏:
+        .. _theme_location_bar_dropdown_button_n:
+        .. figure:: ../_static/images/manifest/theme_location_bar_dropdown_button_n.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-theme_location_bar_dropdown_button_h:
+
+- theme_location_bar_dropdown_button_h
+
+    - 作用区间:
+        鼠标 hover 时，地址栏下拉按钮图片。
+    - 关联图片:
+        .. _origin_theme_location_bar_dropdown_button_h:
+        .. figure:: ../_static/images/manifest/origin/location_bar_dropdown_button_h.png
+    - 效果截屏:
+        .. _theme_location_bar_dropdown_button_h:
+        .. figure:: ../_static/images/manifest/theme_location_bar_dropdown_button_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1009,8 +1019,13 @@
 - theme_location_bar_dropdown_button_p
 
     - 作用区间:
+        鼠标按下时，地址栏下拉按钮图片。
     - 关联图片:
+        .. _origin_theme_location_bar_dropdown_button_p:
+        .. figure:: ../_static/images/manifest/origin/location_bar_dropdown_button_p.png
     - 效果截屏:
+        .. _theme_location_bar_dropdown_button_p:
+        .. figure:: ../_static/images/manifest/theme_location_bar_dropdown_button_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1021,8 +1036,13 @@
 - theme_location_bar_dropdown_button_d
 
     - 作用区间:
+        禁止按下时，地址栏下拉按钮图片。
     - 关联图片:
+        .. _origin_theme_location_bar_dropdown_button_d:
+        .. figure:: ../_static/images/manifest/origin/location_bar_dropdown_button_d.png
     - 效果截屏:
+        .. _theme_location_bar_dropdown_button_d:
+        .. figure:: ../_static/images/manifest/theme_location_bar_dropdown_button_d.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
