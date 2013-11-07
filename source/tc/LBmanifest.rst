@@ -1550,20 +1550,13 @@
 - ks_download
 
     - 作用区间:
+        普通态时，下载按钮图片。
     - 关联图片:
+        .. _origin_ks_download:
+        .. figure:: ../_static/images/manifest/origin/download.png
     - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
-.. _LBMF-ks_download_p:
-
-- ks_download_p
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
+        .. _ks_download:
+        .. figure:: ../_static/images/manifest/ks_download.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1574,8 +1567,30 @@
 - ks_download_h
 
     - 作用区间:
+        鼠标 hover 时，下载按钮图片。
     - 关联图片:
+        .. _origin_ks_download_h:
+        .. figure:: ../_static/images/manifest/origin/download_h.png
     - 效果截屏:
+        .. _ks_download_h:
+        .. figure:: ../_static/images/manifest/ks_download_h.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-ks_download_p:
+
+- ks_download_p
+
+    - 作用区间:
+        鼠标按下时，下载按钮图片。
+    - 关联图片:
+        .. _origin_ks_download_p:
+        .. figure:: ../_static/images/manifest/origin/download_p.png
+    - 效果截屏:
+        .. _ks_download_p:
+        .. figure:: ../_static/images/manifest/ks_download_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
