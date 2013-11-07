@@ -27,28 +27,28 @@ demo: clasc's layout_parameter
       // 正常窗口下头像蒙版位置
       "logo_mask_offset": "0 0",
       // 最大化下头像蒙版位置
-　　  "logo_mask_max_offset": "0 3",
-　　  // 登录动画帧数
-　  　"logo_animation_rotate_frames": "36",
-　  　// 登录动画速度 
-　  　"logo_animation_rotate_duration": "1000",
-　  　// 云同步动画帧数
-　  　"logo_animation_breath_frames": "18",    
-　    // 云同步动画速度 
-　  　"logo_animation_breath_duration": "1000",
+      "logo_mask_max_offset": "0 3",
+      // 登录动画帧数
+      "logo_animation_rotate_frames": "36",
+      // 登录动画速度 
+      "logo_animation_rotate_duration": "1000",
+      // 云同步动画帧数
+      "logo_animation_breath_frames": "18",    
+      // 云同步动画速度 
+      "logo_animation_breath_duration": "1000",
 
-　  　// 按下logo后显示菜单的位置
-　  　"wrench_menu_offset": "0 7",
-　  　// 菜单下用户账号显示位置  
-　  　"wrench_menu_titlecontent_offset": "100 0",
+      // 按下logo后显示菜单的位置
+      "wrench_menu_offset": "0 7",
+      // 菜单下用户账号显示位置  
+      "wrench_menu_titlecontent_offset": "100 0",
 
-　　  // 正常窗口下登录动画位置，以”a空格b”表示位置，a越大越向右，b越大越向下，以屏幕最上角为原点。
-　　  "logo_animation_breath_offset": "0 0",
-　  　// 最大化下登录动画位置，以”a空格b”表示位置，a越大越向右，b越大越向下。
-　　  "logo_animation_breath_max_offset": "0 0 ",
-　　  // 正常窗口下云同步动画位置，以”a空格b”表示位置，a越大越向右，b越大越向下。
-　　  "logo_animation_rotate_offset": "0 0",
-　  　// 最大化下云同步动画位置，以”a空格b”表示位置，a越大越向右，b越大越向下。
+      // 正常窗口下登录动画位置，以”a空格b”表示位置，a越大越向右，b越大越向下，以屏幕最上角为原点。
+      "logo_animation_breath_offset": "0 0",
+      // 最大化下登录动画位置，以”a空格b”表示位置，a越大越向右，b越大越向下。
+      "logo_animation_breath_max_offset": "0 0 ",
+      // 正常窗口下云同步动画位置，以”a空格b”表示位置，a越大越向右，b越大越向下。
+      "logo_animation_rotate_offset": "0 0",
+      // 最大化下云同步动画位置，以”a空格b”表示位置，a越大越向右，b越大越向下。
       "logo_animation_rotate_max_offset": "0 0",
 
       "tab_horz_fuzz": "10",
