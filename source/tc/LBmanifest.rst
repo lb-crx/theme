@@ -1297,10 +1297,10 @@
     - 作用区间:
         未添加收藏状态时，地址栏“添加到收藏”按钮
     - 关联图片:
-        .. _origin_theme_theme_location_bar_star:
+        .. _origin_theme_location_bar_star:
         .. figure:: ../_static/images/manifest/origin/location_bar_star.png
     - 效果截屏:
-        .. _theme_theme_location_bar_star:
+        .. _theme_location_bar_star:
         .. figure:: ../_static/images/manifest/theme_location_bar_star.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
@@ -1314,10 +1314,10 @@
     - 作用区间:
         已添加收藏状态时，地址栏“添加到收藏”按钮
     - 关联图片:
-        .. _origin_theme_theme_location_bar_star_lit:
+        .. _origin_theme_location_bar_star_lit:
         .. figure:: ../_static/images/manifest/origin/location_bar_star_lit.png
     - 效果截屏:
-        .. _theme_theme_location_bar_star_lit:
+        .. _theme_location_bar_star_lit:
         .. figure:: ../_static/images/manifest/theme_location_bar_star_lit.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
@@ -1368,7 +1368,7 @@
         .. _origin_theme_location_bar_stop_p:
         .. figure:: ../_static/images/manifest/origin/location_bar_stop_p.png
     - 效果截屏:
-        .. _theme_theme_location_bar_stop_p:
+        .. _theme_location_bar_stop_p:
         .. figure:: ../_static/images/manifest/theme_location_bar_stop_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
