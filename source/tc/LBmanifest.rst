@@ -1397,8 +1397,13 @@
 - theme_searchbar_border_focus
 
     - 作用区间:
+        搜索栏输入框。
     - 关联图片:
+        .. _origin_theme_searchbar_border_focus:
+        .. figure:: ../_static/images/manifest/origin/searchbar_border_focus.png
     - 效果截屏:
+        .. _theme_searchbar_border_focus:
+        .. figure:: ../_static/images/manifest/theme_searchbar_border_focus.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
