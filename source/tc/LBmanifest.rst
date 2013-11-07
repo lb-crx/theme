@@ -1693,8 +1693,13 @@
 - safety_n
 
     - 作用区间:
+        普通态时，处于安全状态的安全按钮。
     - 关联图片:
+        .. _origin_safety_n:
+        .. figure:: ../_static/images/manifest/origin/safety_n.png
     - 效果截屏:
+        .. _safety_n:
+        .. figure:: ../_static/images/manifest/safety_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1705,8 +1710,13 @@
 - safety_h
 
     - 作用区间:
+        鼠标 hover 时，处于安全状态的安全按钮。
     - 关联图片:
+        .. _origin_safety_h:
+        .. figure:: ../_static/images/manifest/origin/safety_h.png
     - 效果截屏:
+        .. _safety_h:
+        .. figure:: ../_static/images/manifest/safety_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1717,8 +1727,13 @@
 - safety_p
 
     - 作用区间:
+        鼠标按下时，处于安全状态的安全按钮。
     - 关联图片:
+        .. _origin_safety_p:
+        .. figure:: ../_static/images/manifest/origin/safety_p.png
     - 效果截屏:
+        .. _safety_p:
+        .. figure:: ../_static/images/manifest/safety_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
