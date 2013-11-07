@@ -1324,25 +1324,35 @@
 
 
 
-.. _LBMF-theme_location_bar_stop_h:
-
-- theme_location_bar_stop_h
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
 .. _LBMF-theme_location_bar_stop_n:
 
 - theme_location_bar_stop_n
 
     - 作用区间:
+        普通态时，地址栏停止按钮的图片。
     - 关联图片:
+        .. _origin_theme_location_bar_stop_n:
+        .. figure:: ../_static/images/manifest/origin/location_bar_stop_n.png
     - 效果截屏:
+        .. _theme_location_bar_stop_n:
+        .. figure:: ../_static/images/manifest/theme_location_bar_stop_n.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-theme_location_bar_stop_h:
+
+- theme_location_bar_stop_h
+
+    - 作用区间:
+        鼠标 hover 时，地址栏停止按钮的图片。
+    - 关联图片:
+        .. _origin_theme_location_bar_stop_h:
+        .. figure:: ../_static/images/manifest/origin/location_bar_stop_h.png
+    - 效果截屏:
+        .. _theme_location_bar_stop_h:
+        .. figure:: ../_static/images/manifest/theme_location_bar_stop_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1353,8 +1363,13 @@
 - theme_location_bar_stop_p
 
     - 作用区间:
+        鼠标按下时，地址栏停止按钮的图片。
     - 关联图片:
+        .. _origin_theme_location_bar_stop_p:
+        .. figure:: ../_static/images/manifest/origin/location_bar_stop_p.png
     - 效果截屏:
+        .. _theme_theme_location_bar_stop_p:
+        .. figure:: ../_static/images/manifest/theme_location_bar_stop_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1365,8 +1380,13 @@
 - theme_location_bar_stop_d
 
     - 作用区间:
+        禁止按下时，地址栏停止按钮的图片。
     - 关联图片:
+        .. _origin_theme_location_bar_stop_d:
+        .. figure:: ../_static/images/manifest/origin/location_bar_stop_d.png
     - 效果截屏:
+        .. _theme_location_bar_stop_d:
+        .. figure:: ../_static/images/manifest/theme_location_bar_stop_d.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
