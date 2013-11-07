@@ -1601,20 +1601,13 @@
 - ks_downloading
 
     - 作用区间:
+        普通态时，正在下载状态的下载按钮图片。
     - 关联图片:
+        .. _origin_ks_downloading:
+        .. figure:: ../_static/images/manifest/origin/downloading.png
     - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
-.. _LBMF-ks_downloading_p:
-
-- ks_downloading_p
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
+        .. _ks_downloading:
+        .. figure:: ../_static/images/manifest/ks_downloading.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1625,8 +1618,30 @@
 - ks_downliading_h
 
     - 作用区间:
+        鼠标 hover 时，正在下载状态的下载按钮图片。
     - 关联图片:
+        .. _origin_ks_downliading_h:
+        .. figure:: ../_static/images/manifest/origin/downloading_h.png
     - 效果截屏:
+        .. _ks_downliading_h:
+        .. figure:: ../_static/images/manifest/ks_downliading_h.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-ks_downloading_p:
+
+- ks_downloading_p
+
+    - 作用区间:
+        鼠标按下时，正在下载状态的下载按钮图片。
+    - 关联图片:
+        .. _origin_ks_downloading_p:
+        .. figure:: ../_static/images/manifest/origin/downloading_p.png
+    - 效果截屏:
+        .. _ks_downloading_p:
+        .. figure:: ../_static/images/manifest/ks_downloading_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
