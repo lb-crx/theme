@@ -1739,6 +1739,57 @@
 
 
 
+.. _LBMF-safety_abnormal_n:
+
+- safety_abnormal_n
+
+    - 作用区间:
+        普通态时，处于非安全状态下的安全按钮。
+    - 关联图片:
+        .. _origin_safety_abnormal_n:
+        .. figure:: ../_static/images/manifest/origin/safety_abnormal_n.png
+    - 效果截屏:
+        .. _safety_abnormal_n:
+        .. figure:: ../_static/images/manifest/safety_abnormal_n.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-safety_abnormal_h:
+
+- safety_abnormal_h
+
+    - 作用区间:
+        鼠标 hover 时，处于非安全状态下的安全按钮。
+    - 关联图片:
+        .. _origin_safety_abnormal_n:
+        .. figure:: ../_static/images/manifest/origin/safety_abnormal_n.png
+    - 效果截屏:
+        .. _safety_abnormal_n:
+        .. figure:: ../_static/images/manifest/safety_abnormal_n.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-safety_abnormal_p:
+
+- safety_abnormal_p
+
+    - 作用区间:
+        鼠标按下时，处于非安全状态下的安全按钮。
+    - 关联图片:
+        .. _origin_safety_abnormal_n:
+        .. figure:: ../_static/images/manifest/origin/safety_abnormal_n.png
+    - 效果截屏:
+        .. _safety_abnormal_n:
+        .. figure:: ../_static/images/manifest/safety_abnormal_n.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
 .. _LBMF-safe_login_manager_btn_n:
 
 - safe_login_manager_btn_n
@@ -2671,42 +2722,6 @@
 .. _LBMF-user_login_link_bk_p:
 
 - user_login_link_bk_p
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
-.. _LBMF-safety_abnormal_n:
-
-- safety_abnormal_n
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
-.. _LBMF-safety_abnormal_p:
-
-- safety_abnormal_p
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
-.. _LBMF-safety_abnormal_h:
-
-- safety_abnormal_h
 
     - 作用区间:
     - 关联图片:
