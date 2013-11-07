@@ -1409,25 +1409,35 @@
 
 
 
-.. _LBMF-theme_searchbar_engs_icon_h:
-
-- theme_searchbar_engs_icon_h
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
 .. _LBMF-theme_searchbar_engs_icon_n:
 
 - theme_searchbar_engs_icon_n
 
     - 作用区间:
+        普通态时，搜索栏搜索引擎下拉按钮。
     - 关联图片:
+        .. _origin_theme_searchbar_engs_icon_n:
+        .. figure:: ../_static/images/manifest/origin/searchbar_engs_icon_n.png
     - 效果截屏:
+        .. _theme_searchbar_engs_icon_n:
+        .. figure:: ../_static/images/manifest/theme_searchbar_engs_icon_n.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-theme_searchbar_engs_icon_h:
+
+- theme_searchbar_engs_icon_h
+
+    - 作用区间:
+        鼠标 hover 时，搜索栏搜索引擎下拉按钮。
+    - 关联图片:
+        .. _origin_theme_searchbar_engs_icon_h:
+        .. figure:: ../_static/images/manifest/origin/searchbar_engs_icon_h.png
+    - 效果截屏:
+        .. _theme_searchbar_engs_icon_h:
+        .. figure:: ../_static/images/manifest/theme_searchbar_engs_icon_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1438,20 +1448,13 @@
 - theme_searchbar_engs_icon_p
 
     - 作用区间:
+        鼠标按下时，搜索栏搜索引擎下拉按钮。
     - 关联图片:
+        .. _origin_theme_searchbar_engs_icon_p:
+        .. figure:: ../_static/images/manifest/origin/searchbar_engs_icon_p.png
     - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
-.. _LBMF-theme_searchbar_icon_h:
-
-- theme_searchbar_icon_h
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
+        .. _theme_searchbar_engs_icon_p:
+        .. figure:: ../_static/images/manifest/theme_searchbar_engs_icon_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1462,8 +1465,30 @@
 - theme_searchbar_icon_n
 
     - 作用区间:
+        普通态时，搜索栏按钮。
     - 关联图片:
+        .. _origin_theme_searchbar_icon_p:
+        .. figure:: ../_static/images/manifest/origin/searchbar_icon_p.png
     - 效果截屏:
+        .. _theme_searchbar_icon_p:
+        .. figure:: ../_static/images/manifest/theme_searchbar_icon_p.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-theme_searchbar_icon_h:
+
+- theme_searchbar_icon_h
+
+    - 作用区间:
+        鼠标 hover 时，搜索栏按钮。
+    - 关联图片:
+        .. _origin_theme_searchbar_icon_p:
+        .. figure:: ../_static/images/manifest/origin/searchbar_icon_p.png
+    - 效果截屏:
+        .. _theme_searchbar_icon_p:
+        .. figure:: ../_static/images/manifest/theme_searchbar_icon_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1474,8 +1499,13 @@
 - theme_searchbar_icon_p
 
     - 作用区间:
+        鼠标按下时，搜索栏按钮。
     - 关联图片:
+        .. _origin_theme_searchbar_icon_p:
+        .. figure:: ../_static/images/manifest/origin/searchbar_icon_p.png
     - 效果截屏:
+        .. _theme_searchbar_icon_p:
+        .. figure:: ../_static/images/manifest/theme_searchbar_icon_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1486,8 +1516,13 @@
 - theme_searchbar_engs_is_default
 
     - 作用区间:
+        搜索栏搜索引擎选中按钮。
     - 关联图片:
+        .. _origin_theme_searchbar_engs_is_default:
+        .. figure:: ../_static/images/manifest/origin/searchbar_engs_is_default.png
     - 效果截屏:
+        .. _theme_searchbar_engs_is_default:
+        .. figure:: ../_static/images/manifest/theme_searchbar_engs_is_default.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1498,8 +1533,13 @@
 - progress_button_background
 
     - 作用区间:
+        下载文件时，下载按钮的背景图片。
     - 关联图片:
+        .. _origin_progress_button_background:
+        .. figure:: ../_static/images/manifest/origin/progress_button_background.png
     - 效果截屏:
+        .. _progress_button_background:
+        .. figure:: ../_static/images/manifest/progress_button_background.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
