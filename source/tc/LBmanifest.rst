@@ -1652,8 +1652,13 @@
 - progress_bottom_img
 
     - 作用区间:
+        下载按钮的进度显示图片。为下图中的蓝色图片，其显示的高度占下载按钮高度的百分比为下载的进度。
     - 关联图片:
+        .. _origin_progress_bottom_img:
+        .. figure:: ../_static/images/manifest/origin/progress_bottom_img.png
     - 效果截屏:
+        .. _progress_bottom_img:
+        .. figure:: ../_static/images/manifest/progress_bottom_img.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
