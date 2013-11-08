@@ -12,6 +12,7 @@
 
 + :ref:`猎豹皮肤概述 <theme0steps>`
 + :ref:`猎豹皮肤定制流程 <chapterLBthemeDesignFlow>`
+    + :ref:`猎豹皮肤简明教程——头像样式篇 <chapterLBthemeQuickStartAccountIcon>`
     + :ref:`猎豹皮肤调试技巧 <chapterLBthemeTestSkill>`
 + :ref:`猎豹皮肤关键参数定制说明 <chapter5TCG>`
     + :ref:`manifest.json 详解 <chapterLBmanifest>`
