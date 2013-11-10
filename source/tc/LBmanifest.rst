@@ -1961,40 +1961,70 @@
     - 其它: `.9图` 规则
 
 
+
 .. _LBMF-multi_tab_preview_btn_n:
 
 - multi_tab_preview_btn_n
 
     - 作用区间:
+        普通态n，多标签预览按钮。
     - 关联图片:
-    - 效果截图:
+        .. _origin_multi_tab_preview_btn_n:
+        .. figure:: ../_static/images/manifest/origin/multi_tab_preview_btn_n.png
+    - 效果截屏:
+        .. _multi_tab_preview_btn_n:
+        .. figure:: ../_static/images/manifest/multi_tab_preview_btn_n.jpg
     - 建议尺寸:
     - 其他: `.9图` 规则
+
+
+
 .. _LBMF-multi_tab_preview_btn_h:
 
 - multi_tab_preview_btn_h
 
     - 作用区间:
+        鼠标hover态，多标签预览按钮。
     - 关联图片:
-    - 效果截图:
+        .. _origin_multi_tab_preview_btn_h:
+        .. figure:: ../_static/images/manifest/origin/multi_tab_preview_btn_h.png
+    - 效果截屏:
+        .. _multi_tab_preview_btn_h:
+        .. figure:: ../_static/images/manifest/multi_tab_preview_btn_h.jpg
     - 建议尺寸:
     - 其他: `.9图` 规则
+
+
+
 .. _LBMF-multi_tab_preview_btn_p:
 
 - multi_tab_preview_btn_p
 
     - 作用区间:
+        鼠标按下态，多标签预览按钮。
     - 关联图片:
-    - 效果截图:
+        .. _origin_multi_tab_preview_btn_p:
+        .. figure:: ../_static/images/manifest/origin/multi_tab_preview_btn_p.png
+    - 效果截屏:
+        .. _multi_tab_preview_btn_p:
+        .. figure:: ../_static/images/manifest/multi_tab_preview_btn_p.jpg
     - 建议尺寸:
     - 其他: `.9图` 规则
+
+
+
 .. _LBMF-multi_tab_preview_btn_n_2:
 
 - multi_tab_preview_btn_n_2
 
     - 作用区间:
+        发光态，多标签预览按钮。
     - 关联图片:
-    - 效果截图:
+        .. _origin_multi_tab_preview_btn_n_2:
+        .. figure:: ../_static/images/manifest/origin/multi_tab_preview_btn_n_2.png
+    - 效果截屏:
+        .. _multi_tab_preview_btn_n_2:
+        .. figure:: ../_static/images/manifest/multi_tab_preview_btn_n_2.jpg
     - 建议尺寸:
     - 其他: `.9图` 规则
 
