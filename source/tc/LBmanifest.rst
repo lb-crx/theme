@@ -2137,8 +2137,13 @@
 - restore_btn_n
 
     - 作用区间:
+        普通态n，窗口还原按钮。
     - 关联图片:
+        .. _origin_restore_btn_n:
+        .. figure:: ../_static/images/manifest/origin/restore_button_n.png
     - 效果截屏:
+        .. _restore_btn_n:
+        .. figure:: ../_static/images/manifest/restore_btn_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2149,8 +2154,13 @@
 - restore_btn_h
 
     - 作用区间:
+        鼠标hover态，窗口还原按钮。
     - 关联图片:
+        .. _origin_restore_btn_h:
+        .. figure:: ../_static/images/manifest/origin/restore_button_h.png
     - 效果截屏:
+        .. _restore_btn_h:
+        .. figure:: ../_static/images/manifest/restore_btn_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2161,8 +2171,13 @@
 - restore_btn_p
 
     - 作用区间:
+        鼠标按下态，窗口还原按钮。
     - 关联图片:
+        .. _origin_restore_btn_p:
+        .. figure:: ../_static/images/manifest/origin/restore_button_p.png
     - 效果截屏:
+        .. _restore_btn_p:
+        .. figure:: ../_static/images/manifest/restore_btn_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
