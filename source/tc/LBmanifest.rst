@@ -2341,7 +2341,7 @@
         .. _origin_throbber_waiting:
         .. figure:: ../_static/images/manifest/origin/loading.png
     - 效果截屏:
-        .. _theme_menu_cloud_item_sync_loading:
+        .. _throbber_waiting:
         .. figure:: ../_static/images/manifest/throbber_waiting.jpg
     - 建议尺寸:
 
