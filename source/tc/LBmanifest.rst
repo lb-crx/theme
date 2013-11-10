@@ -2310,7 +2310,7 @@
         普通态时，撤销按钮的图片。
     - 关联图片:
         .. _origin_undo_btn_n:
-        .. figure:: ../_static/images/manifest/origin/undo_btn_n.png
+        .. figure:: ../_static/images/manifest/origin/undo_button_n.png
     - 效果截屏:
         .. _undo_btn_n:
         .. figure:: ../_static/images/manifest/undo_btn_n.jpg
@@ -2327,7 +2327,7 @@
         鼠标 hover 时，撤销按钮的图片。
     - 关联图片:
         .. _origin_undo_btn_h:
-        .. figure:: ../_static/images/manifest/origin/undo_btn_h.png
+        .. figure:: ../_static/images/manifest/origin/undo_button_h.png
     - 效果截屏:
         .. _undo_btn_h:
         .. figure:: ../_static/images/manifest/undo_btn_h.jpg
@@ -2344,7 +2344,7 @@
         鼠标按下时，撤销按钮的图片。
     - 关联图片:
         .. _origin_undo_btn_p:
-        .. figure:: ../_static/images/manifest/origin/undo_btn_p.png
+        .. figure:: ../_static/images/manifest/origin/undo_button_p.png
     - 效果截屏:
         .. _undo_btn_p:
         .. figure:: ../_static/images/manifest/undo_btn_p.jpg
@@ -2361,7 +2361,7 @@
         禁止按下时，撤销按钮的图片。
     - 关联图片:
         .. _origin_undo_btn_d:
-        .. figure:: ../_static/images/manifest/origin/undo_btn_d.png
+        .. figure:: ../_static/images/manifest/origin/undo_button_d.png
     - 效果截屏:
         .. _undo_btn_d:
         .. figure:: ../_static/images/manifest/undo_btn_d.jpg
@@ -2553,8 +2553,13 @@
 - bookmark_btn_bk_h
 
     - 作用区间:
+        鼠标hover时，书签背景图片。
     - 关联图片:
+        .. _origin_bookmark_btn_bk_h:
+        .. figure:: ../_static/images/manifest/origin/bookmark_btn_bk_h.png
     - 效果截屏:
+        .. _bookmark_btn_bk_h:
+        .. figure:: ../_static/images/manifest/bookmark_btn_bk_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2565,8 +2570,13 @@
 - bookmark_btn_bk_p
 
     - 作用区间:
+        鼠标按下时，书签背景图片。
     - 关联图片:
+        .. _origin_bookmark_btn_bk_p:
+        .. figure:: ../_static/images/manifest/origin/bookmark_btn_bk_p.png
     - 效果截屏:
+        .. _bookmark_btn_bk_p:
+        .. figure:: ../_static/images/manifest/bookmark_btn_bk_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
