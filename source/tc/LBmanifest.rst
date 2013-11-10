@@ -2028,6 +2028,8 @@
     - 建议尺寸:
     - 其他: `.9图` 规则
 
+
+
 .. _LBMF-min_btn_n:
 
 - min_btn_n
@@ -2084,8 +2086,13 @@
 - max_btn_n
 
     - 作用区间:
+        普通态n，窗口最大化按钮。
     - 关联图片:
+        .. _origin_max_btn_n:
+        .. figure:: ../_static/images/manifest/origin/max_button_n.png
     - 效果截屏:
+        .. _max_btn_n:
+        .. figure:: ../_static/images/manifest/max_btn_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2096,8 +2103,13 @@
 - max_btn_h
 
     - 作用区间:
+        鼠标hover态，窗口最大化按钮。
     - 关联图片:
+        .. _origin_max_btn_h:
+        .. figure:: ../_static/images/manifest/origin/max_button_h.png
     - 效果截屏:
+        .. _max_btn_h:
+        .. figure:: ../_static/images/manifest/max_btn_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2108,8 +2120,13 @@
 - max_btn_p
 
     - 作用区间:
+        鼠标按下态，窗口最大化按钮。
     - 关联图片:
+        .. _origin_max_btn_p:
+        .. figure:: ../_static/images/manifest/origin/max_button_p.png
     - 效果截屏:
+        .. _max_btn_p:
+        .. figure:: ../_static/images/manifest/max_btn_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
