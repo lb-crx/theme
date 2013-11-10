@@ -2239,8 +2239,13 @@
 - home_btn_n
 
     - 作用区间:
+        普通态n，主页按钮。
     - 关联图片:
+        .. _origin_home_btn_n:
+        .. figure:: ../_static/images/manifest/origin/homepage_n.png
     - 效果截屏:
+        .. _home_btn_n:
+        .. figure:: ../_static/images/manifest/home_btn_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2251,8 +2256,13 @@
 - home_btn_h
 
     - 作用区间:
+        鼠标hover态，主页按钮。
     - 关联图片:
+        .. _origin_home_btn_h:
+        .. figure:: ../_static/images/manifest/origin/homepage_h.png
     - 效果截屏:
+        .. _home_btn_h:
+        .. figure:: ../_static/images/manifest/home_btn_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2263,8 +2273,13 @@
 - home_btn_p
 
     - 作用区间:
+        鼠标按下态，主页按钮。
     - 关联图片:
+        .. _origin_home_btn_p:
+        .. figure:: ../_static/images/manifest/origin/homepage_p.png
     - 效果截屏:
+        .. _home_btn_p:
+        .. figure:: ../_static/images/manifest/home_btn_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2275,8 +2290,13 @@
 - home_btn_mask
 
     - 作用区间:
+        鼠标按下态，主页按钮的mask图片。
     - 关联图片:
+        .. _origin_home_btn_mask:
+        .. figure:: ../_static/images/manifest/origin/homepage_mask.png
     - 效果截屏:
+        .. _home_btn_mask:
+        .. figure:: ../_static/images/manifest/home_btn_mask.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
