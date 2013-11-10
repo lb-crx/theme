@@ -2767,8 +2767,13 @@
 - newtab_favicon
 
     - 作用区间:
+        新标签tab页的 favicon 图标。
     - 关联图片:
+        .. _origin_newtab_favicon:
+        .. figure:: ../_static/images/manifest/origin/newtab_favicon.png
     - 效果截屏:
+        .. _newtab_favicon:
+        .. figure:: ../_static/images/manifest/newtab_favicon.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
