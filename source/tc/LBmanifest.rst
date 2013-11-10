@@ -1848,8 +1848,13 @@
 - fav_button_n
 
     - 作用区间:
+        普通态n，收藏按钮。
     - 关联图片:
+        .. _origin_fav_button_n:
+        .. figure:: ../_static/images/manifest/origin/fav_button_n.png
     - 效果截屏:
+        .. _fav_button_n:
+        .. figure:: ../_static/images/manifest/fav_button_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1860,8 +1865,13 @@
 - fav_button_h
 
     - 作用区间:
+        鼠标hover态，收藏按钮。
     - 关联图片:
+        .. _origin_fav_button_h:
+        .. figure:: ../_static/images/manifest/origin/fav_button_h.png
     - 效果截屏:
+        .. _fav_button_h:
+        .. figure:: ../_static/images/manifest/fav_button_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1872,8 +1882,13 @@
 - fav_button_p
 
     - 作用区间:
+        鼠标按下态，收藏按钮。
     - 关联图片:
+        .. _origin_fav_button_p:
+        .. figure:: ../_static/images/manifest/origin/fav_button_p.png
     - 效果截屏:
+        .. _fav_button_p:
+        .. figure:: ../_static/images/manifest/fav_button_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1884,8 +1899,13 @@
 - fav_button_mask
 
     - 作用区间:
+        收藏按钮的 mask 遮罩图片。此图片的黑色为鼠标的可点击区域，鼠标只有 hover 到这个遮罩的范围之内才能显示为手掌图标，并且为可以点击状态。
     - 关联图片:
+        .. _origin_fav_button_mask:
+        .. figure:: ../_static/images/manifest/origin/fav_button_mask.png
     - 效果截屏:
+        .. _fav_button_mask:
+        .. figure:: ../_static/images/manifest/fav_button_mask.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1896,8 +1916,13 @@
 - skin_btn_n
 
     - 作用区间:
+        普通态n，换肤按钮。
     - 关联图片:
+        .. _origin_skin_btn_n:
+        .. figure:: ../_static/images/manifest/origin/skin_button_n.png
     - 效果截屏:
+        .. _skin_btn_n:
+        .. figure:: ../_static/images/manifest/skin_btn_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1908,8 +1933,13 @@
 - skin_btn_h
 
     - 作用区间:
+        鼠标hover态，换肤按钮。
     - 关联图片:
+        .. _origin_skin_btn_h:
+        .. figure:: ../_static/images/manifest/origin/skin_button_h.png
     - 效果截屏:
+        .. _skin_btn_h:
+        .. figure:: ../_static/images/manifest/skin_btn_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1920,8 +1950,13 @@
 - skin_btn_p
 
     - 作用区间:
+        鼠标按下态，换肤按钮。
     - 关联图片:
+        .. _origin_skin_btn_p:
+        .. figure:: ../_static/images/manifest/origin/skin_button_p.png
     - 效果截屏:
+        .. _skin_btn_p:
+        .. figure:: ../_static/images/manifest/skin_btn_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
