@@ -1786,6 +1786,8 @@
         .. _safety_abnormal_n:
         .. figure:: ../_static/images/manifest/safety_abnormal_n.jpg
     - 建议尺寸:
+        .. _safety_abnormal_n:
+        .. figure:: ../_static/images/manifest/safety_abnormal_n.jpg
     - 其它: `.9图` 规则
 
 
@@ -1795,9 +1797,14 @@
 - safe_login_manager_btn_n
 
     - 作用区间:
+        普通态n，密码管理按钮。
     - 关联图片:
+        .. _origin_safe_login_manager_btn_n:
+        .. figure:: ../_static/images/manifest/origin/safe_login_manager_btn_n.png
     - 效果截屏:
     - 建议尺寸:
+        .. _safe_login_manager_btn_n:
+        .. figure:: ../_static/images/manifest/safe_login_manager_btn_n.jpg
     - 其它: `.9图` 规则
 
 
@@ -1807,9 +1814,14 @@
 - safe_login_manager_btn_h
 
     - 作用区间:
+        鼠标hover态，密码管理按钮。
     - 关联图片:
+        .. _origin_safe_login_manager_btn_h:
+        .. figure:: ../_static/images/manifest/origin/safe_login_manager_btn_h.png
     - 效果截屏:
     - 建议尺寸:
+        .. _safe_login_manager_btn_h:
+        .. figure:: ../_static/images/manifest/safe_login_manager_btn_h.jpg
     - 其它: `.9图` 规则
 
 
@@ -1819,8 +1831,13 @@
 - safe_login_manager_btn_p
 
     - 作用区间:
+        鼠标按下态，密码管理按钮。
     - 关联图片:
+        .. _origin_safe_login_manager_btn_p:
+        .. figure:: ../_static/images/manifest/origin/safe_login_manager_btn_p.png
     - 效果截屏:
+        .. _safe_login_manager_btn_p:
+        .. figure:: ../_static/images/manifest/safe_login_manager_btn_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
