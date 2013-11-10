@@ -2352,8 +2352,13 @@
 - bookmark_bar_folder
 
     - 作用区间:
+        书签栏中书签的默认图标。如果保存的网页没有 favicon.ico 图标，则使用此图标。
     - 关联图片:
+        .. _origin_bookmark_bar_folder:
+        .. figure:: ../_static/images/manifest/origin/bookmark_bar_folder.png
     - 效果截屏:
+        .. _bookmark_bar_folder:
+        .. figure:: ../_static/images/manifest/bookmark_bar_folder.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
