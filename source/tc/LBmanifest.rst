@@ -2307,32 +2307,13 @@
 - undo_btn_n
 
     - 作用区间:
+        普通态时，撤销按钮的图片。
     - 关联图片:
+        .. _origin_undo_btn_n:
+        .. figure:: ../_static/images/manifest/origin/undo_btn_n.png
     - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
-.. _LBMF-undo_btn_d:
-
-- undo_btn_d
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
-.. _LBMF-undo_btn_p:
-
-- undo_btn_p
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
+        .. _undo_btn_n:
+        .. figure:: ../_static/images/manifest/undo_btn_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2343,8 +2324,47 @@
 - undo_btn_h
 
     - 作用区间:
+        鼠标 hover 时，撤销按钮的图片。
     - 关联图片:
+        .. _origin_undo_btn_h:
+        .. figure:: ../_static/images/manifest/origin/undo_btn_h.png
     - 效果截屏:
+        .. _undo_btn_h:
+        .. figure:: ../_static/images/manifest/undo_btn_h.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-undo_btn_p:
+
+- undo_btn_p
+
+    - 作用区间:
+        鼠标按下时，撤销按钮的图片。
+    - 关联图片:
+        .. _origin_undo_btn_p:
+        .. figure:: ../_static/images/manifest/origin/undo_btn_p.png
+    - 效果截屏:
+        .. _undo_btn_p:
+        .. figure:: ../_static/images/manifest/undo_btn_p.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-undo_btn_d:
+
+- undo_btn_d
+
+    - 作用区间:
+        禁止按下时，撤销按钮的图片。
+    - 关联图片:
+        .. _origin_undo_btn_d:
+        .. figure:: ../_static/images/manifest/origin/undo_btn_d.png
+    - 效果截屏:
+        .. _undo_btn_d:
+        .. figure:: ../_static/images/manifest/undo_btn_d.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
