@@ -2033,8 +2033,13 @@
 - min_btn_n
 
     - 作用区间:
+        普通态n，窗口最小化按钮。
     - 关联图片:
+        .. _origin_min_btn_n:
+        .. figure:: ../_static/images/manifest/origin/min_button_n.png
     - 效果截屏:
+        .. _min_btn_n:
+        .. figure:: ../_static/images/manifest/min_btn_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2045,8 +2050,13 @@
 - min_btn_h
 
     - 作用区间:
+        鼠标hover态，窗口最小化按钮。
     - 关联图片:
+        .. _origin_min_btn_h:
+        .. figure:: ../_static/images/manifest/origin/min_button_h.png
     - 效果截屏:
+        .. _min_btn_h:
+        .. figure:: ../_static/images/manifest/min_btn_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2057,8 +2067,13 @@
 - min_btn_p
 
     - 作用区间:
+        鼠标按下态，窗口最小化按钮。
     - 关联图片:
+        .. _origin_min_btn_p:
+        .. figure:: ../_static/images/manifest/origin/min_button_p.png
     - 效果截屏:
+        .. _min_btn_p:
+        .. figure:: ../_static/images/manifest/min_btn_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
