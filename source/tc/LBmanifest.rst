@@ -1786,6 +1786,8 @@
         .. _safety_abnormal_n:
         .. figure:: ../_static/images/manifest/safety_abnormal_n.jpg
     - 建议尺寸:
+        .. _safety_abnormal_n:
+        .. figure:: ../_static/images/manifest/safety_abnormal_n.jpg
     - 其它: `.9图` 规则
 
 
@@ -1795,9 +1797,14 @@
 - safe_login_manager_btn_n
 
     - 作用区间:
+        普通态n，密码管理按钮。
     - 关联图片:
+        .. _origin_safe_login_manager_btn_n:
+        .. figure:: ../_static/images/manifest/origin/safe_login_manager_btn_n.png
     - 效果截屏:
     - 建议尺寸:
+        .. _safe_login_manager_btn_n:
+        .. figure:: ../_static/images/manifest/safe_login_manager_btn_n.jpg
     - 其它: `.9图` 规则
 
 
@@ -1807,9 +1814,14 @@
 - safe_login_manager_btn_h
 
     - 作用区间:
+        鼠标hover态，密码管理按钮。
     - 关联图片:
+        .. _origin_safe_login_manager_btn_h:
+        .. figure:: ../_static/images/manifest/origin/safe_login_manager_btn_h.png
     - 效果截屏:
     - 建议尺寸:
+        .. _safe_login_manager_btn_h:
+        .. figure:: ../_static/images/manifest/safe_login_manager_btn_h.jpg
     - 其它: `.9图` 规则
 
 
@@ -1819,8 +1831,13 @@
 - safe_login_manager_btn_p
 
     - 作用区间:
+        鼠标按下态，密码管理按钮。
     - 关联图片:
+        .. _origin_safe_login_manager_btn_p:
+        .. figure:: ../_static/images/manifest/origin/safe_login_manager_btn_p.png
     - 效果截屏:
+        .. _safe_login_manager_btn_p:
+        .. figure:: ../_static/images/manifest/safe_login_manager_btn_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1831,8 +1848,13 @@
 - fav_button_n
 
     - 作用区间:
+        普通态n，收藏按钮。
     - 关联图片:
+        .. _origin_fav_button_n:
+        .. figure:: ../_static/images/manifest/origin/fav_button_n.png
     - 效果截屏:
+        .. _fav_button_n:
+        .. figure:: ../_static/images/manifest/fav_button_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1843,8 +1865,13 @@
 - fav_button_h
 
     - 作用区间:
+        鼠标hover态，收藏按钮。
     - 关联图片:
+        .. _origin_fav_button_h:
+        .. figure:: ../_static/images/manifest/origin/fav_button_h.png
     - 效果截屏:
+        .. _fav_button_h:
+        .. figure:: ../_static/images/manifest/fav_button_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1855,8 +1882,13 @@
 - fav_button_p
 
     - 作用区间:
+        鼠标按下态，收藏按钮。
     - 关联图片:
+        .. _origin_fav_button_p:
+        .. figure:: ../_static/images/manifest/origin/fav_button_p.png
     - 效果截屏:
+        .. _fav_button_p:
+        .. figure:: ../_static/images/manifest/fav_button_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1867,8 +1899,13 @@
 - fav_button_mask
 
     - 作用区间:
+        收藏按钮的 mask 遮罩图片。此图片的黑色为鼠标的可点击区域，鼠标只有 hover 到这个遮罩的范围之内才能显示为手掌图标，并且为可以点击状态。
     - 关联图片:
+        .. _origin_fav_button_mask:
+        .. figure:: ../_static/images/manifest/origin/fav_button_mask.png
     - 效果截屏:
+        .. _fav_button_mask:
+        .. figure:: ../_static/images/manifest/fav_button_mask.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1879,8 +1916,13 @@
 - skin_btn_n
 
     - 作用区间:
+        普通态n，换肤按钮。
     - 关联图片:
+        .. _origin_skin_btn_n:
+        .. figure:: ../_static/images/manifest/origin/skin_button_n.png
     - 效果截屏:
+        .. _skin_btn_n:
+        .. figure:: ../_static/images/manifest/skin_btn_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1891,8 +1933,13 @@
 - skin_btn_h
 
     - 作用区间:
+        鼠标hover态，换肤按钮。
     - 关联图片:
+        .. _origin_skin_btn_h:
+        .. figure:: ../_static/images/manifest/origin/skin_button_h.png
     - 效果截屏:
+        .. _skin_btn_h:
+        .. figure:: ../_static/images/manifest/skin_btn_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1903,10 +1950,16 @@
 - skin_btn_p
 
     - 作用区间:
+        鼠标按下态，换肤按钮。
     - 关联图片:
+        .. _origin_skin_btn_p:
+        .. figure:: ../_static/images/manifest/origin/skin_button_p.png
     - 效果截屏:
+        .. _skin_btn_p:
+        .. figure:: ../_static/images/manifest/skin_btn_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
+
 
 
 .. _LBMF-multi_tab_preview_btn_n:
@@ -1914,45 +1967,81 @@
 - multi_tab_preview_btn_n
 
     - 作用区间:
+        普通态n，多标签预览按钮。
     - 关联图片:
-    - 效果截图:
+        .. _origin_multi_tab_preview_btn_n:
+        .. figure:: ../_static/images/manifest/origin/multi_tab_preview_btn_n.png
+    - 效果截屏:
+        .. _multi_tab_preview_btn_n:
+        .. figure:: ../_static/images/manifest/multi_tab_preview_btn_n.jpg
     - 建议尺寸:
     - 其他: `.9图` 规则
+
+
+
 .. _LBMF-multi_tab_preview_btn_h:
 
 - multi_tab_preview_btn_h
 
     - 作用区间:
+        鼠标hover态，多标签预览按钮。
     - 关联图片:
-    - 效果截图:
+        .. _origin_multi_tab_preview_btn_h:
+        .. figure:: ../_static/images/manifest/origin/multi_tab_preview_btn_h.png
+    - 效果截屏:
+        .. _multi_tab_preview_btn_h:
+        .. figure:: ../_static/images/manifest/multi_tab_preview_btn_h.jpg
     - 建议尺寸:
     - 其他: `.9图` 规则
+
+
+
 .. _LBMF-multi_tab_preview_btn_p:
 
 - multi_tab_preview_btn_p
 
     - 作用区间:
+        鼠标按下态，多标签预览按钮。
     - 关联图片:
-    - 效果截图:
+        .. _origin_multi_tab_preview_btn_p:
+        .. figure:: ../_static/images/manifest/origin/multi_tab_preview_btn_p.png
+    - 效果截屏:
+        .. _multi_tab_preview_btn_p:
+        .. figure:: ../_static/images/manifest/multi_tab_preview_btn_p.jpg
     - 建议尺寸:
     - 其他: `.9图` 规则
+
+
+
 .. _LBMF-multi_tab_preview_btn_n_2:
 
 - multi_tab_preview_btn_n_2
 
     - 作用区间:
+        发光态，多标签预览按钮。
     - 关联图片:
-    - 效果截图:
+        .. _origin_multi_tab_preview_btn_n_2:
+        .. figure:: ../_static/images/manifest/origin/multi_tab_preview_btn_n_2.png
+    - 效果截屏:
+        .. _multi_tab_preview_btn_n_2:
+        .. figure:: ../_static/images/manifest/multi_tab_preview_btn_n_2.jpg
     - 建议尺寸:
     - 其他: `.9图` 规则
+
+
 
 .. _LBMF-min_btn_n:
 
 - min_btn_n
 
     - 作用区间:
+        普通态n，窗口最小化按钮。
     - 关联图片:
+        .. _origin_min_btn_n:
+        .. figure:: ../_static/images/manifest/origin/min_button_n.png
     - 效果截屏:
+        .. _min_btn_n:
+        .. figure:: ../_static/images/manifest/min_btn_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1963,8 +2052,13 @@
 - min_btn_h
 
     - 作用区间:
+        鼠标hover态，窗口最小化按钮。
     - 关联图片:
+        .. _origin_min_btn_h:
+        .. figure:: ../_static/images/manifest/origin/min_button_h.png
     - 效果截屏:
+        .. _min_btn_h:
+        .. figure:: ../_static/images/manifest/min_btn_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1975,8 +2069,13 @@
 - min_btn_p
 
     - 作用区间:
+        鼠标按下态，窗口最小化按钮。
     - 关联图片:
+        .. _origin_min_btn_p:
+        .. figure:: ../_static/images/manifest/origin/min_button_p.png
     - 效果截屏:
+        .. _min_btn_p:
+        .. figure:: ../_static/images/manifest/min_btn_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1987,8 +2086,13 @@
 - max_btn_n
 
     - 作用区间:
+        普通态n，窗口最大化按钮。
     - 关联图片:
+        .. _origin_max_btn_n:
+        .. figure:: ../_static/images/manifest/origin/max_button_n.png
     - 效果截屏:
+        .. _max_btn_n:
+        .. figure:: ../_static/images/manifest/max_btn_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -1999,8 +2103,13 @@
 - max_btn_h
 
     - 作用区间:
+        鼠标hover态，窗口最大化按钮。
     - 关联图片:
+        .. _origin_max_btn_h:
+        .. figure:: ../_static/images/manifest/origin/max_button_h.png
     - 效果截屏:
+        .. _max_btn_h:
+        .. figure:: ../_static/images/manifest/max_btn_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2011,8 +2120,13 @@
 - max_btn_p
 
     - 作用区间:
+        鼠标按下态，窗口最大化按钮。
     - 关联图片:
+        .. _origin_max_btn_p:
+        .. figure:: ../_static/images/manifest/origin/max_button_p.png
     - 效果截屏:
+        .. _max_btn_p:
+        .. figure:: ../_static/images/manifest/max_btn_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2023,8 +2137,13 @@
 - restore_btn_n
 
     - 作用区间:
+        普通态n，窗口还原按钮。
     - 关联图片:
+        .. _origin_restore_btn_n:
+        .. figure:: ../_static/images/manifest/origin/restore_button_n.png
     - 效果截屏:
+        .. _restore_btn_n:
+        .. figure:: ../_static/images/manifest/restore_btn_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2035,8 +2154,13 @@
 - restore_btn_h
 
     - 作用区间:
+        鼠标hover态，窗口还原按钮。
     - 关联图片:
+        .. _origin_restore_btn_h:
+        .. figure:: ../_static/images/manifest/origin/restore_button_h.png
     - 效果截屏:
+        .. _restore_btn_h:
+        .. figure:: ../_static/images/manifest/restore_btn_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2047,8 +2171,13 @@
 - restore_btn_p
 
     - 作用区间:
+        鼠标按下态，窗口还原按钮。
     - 关联图片:
+        .. _origin_restore_btn_p:
+        .. figure:: ../_static/images/manifest/origin/restore_button_p.png
     - 效果截屏:
+        .. _restore_btn_p:
+        .. figure:: ../_static/images/manifest/restore_btn_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2059,8 +2188,13 @@
 - close_btn_n
 
     - 作用区间:
+        普通态n，窗口关闭按钮。
     - 关联图片:
+        .. _origin_close_btn_n:
+        .. figure:: ../_static/images/manifest/origin/close_button_n.png
     - 效果截屏:
+        .. _close_btn_n:
+        .. figure:: ../_static/images/manifest/close_btn_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2071,8 +2205,13 @@
 - close_btn_h
 
     - 作用区间:
+        鼠标hover态，窗口关闭按钮。
     - 关联图片:
+        .. _origin_close_btn_h:
+        .. figure:: ../_static/images/manifest/origin/close_button_h.png
     - 效果截屏:
+        .. _close_btn_h:
+        .. figure:: ../_static/images/manifest/close_btn_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2083,8 +2222,13 @@
 - close_btn_p
 
     - 作用区间:
+        鼠标按下态，窗口关闭按钮。
     - 关联图片:
+        .. _origin_close_btn_p:
+        .. figure:: ../_static/images/manifest/origin/close_button_p.png
     - 效果截屏:
+        .. _close_btn_p:
+        .. figure:: ../_static/images/manifest/close_btn_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2095,8 +2239,13 @@
 - home_btn_n
 
     - 作用区间:
+        普通态n，主页按钮。
     - 关联图片:
+        .. _origin_home_btn_n:
+        .. figure:: ../_static/images/manifest/origin/homepage_n.png
     - 效果截屏:
+        .. _home_btn_n:
+        .. figure:: ../_static/images/manifest/home_btn_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2107,8 +2256,13 @@
 - home_btn_h
 
     - 作用区间:
+        鼠标hover态，主页按钮。
     - 关联图片:
+        .. _origin_home_btn_h:
+        .. figure:: ../_static/images/manifest/origin/homepage_h.png
     - 效果截屏:
+        .. _home_btn_h:
+        .. figure:: ../_static/images/manifest/home_btn_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2119,8 +2273,13 @@
 - home_btn_p
 
     - 作用区间:
+        鼠标按下态，主页按钮。
     - 关联图片:
+        .. _origin_home_btn_p:
+        .. figure:: ../_static/images/manifest/origin/homepage_p.png
     - 效果截屏:
+        .. _home_btn_p:
+        .. figure:: ../_static/images/manifest/home_btn_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2131,8 +2290,13 @@
 - home_btn_mask
 
     - 作用区间:
+        鼠标按下态，主页按钮的mask图片。
     - 关联图片:
+        .. _origin_home_btn_mask:
+        .. figure:: ../_static/images/manifest/origin/homepage_mask.png
     - 效果截屏:
+        .. _home_btn_mask:
+        .. figure:: ../_static/images/manifest/home_btn_mask.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2143,32 +2307,13 @@
 - undo_btn_n
 
     - 作用区间:
+        普通态时，撤销按钮的图片。
     - 关联图片:
+        .. _origin_undo_btn_n:
+        .. figure:: ../_static/images/manifest/origin/undo_button_n.png
     - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
-.. _LBMF-undo_btn_d:
-
-- undo_btn_d
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
-    - 建议尺寸:
-    - 其它: `.9图` 规则
-
-
-
-.. _LBMF-undo_btn_p:
-
-- undo_btn_p
-
-    - 作用区间:
-    - 关联图片:
-    - 效果截屏:
+        .. _undo_btn_n:
+        .. figure:: ../_static/images/manifest/undo_btn_n.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2179,8 +2324,47 @@
 - undo_btn_h
 
     - 作用区间:
+        鼠标 hover 时，撤销按钮的图片。
     - 关联图片:
+        .. _origin_undo_btn_h:
+        .. figure:: ../_static/images/manifest/origin/undo_button_h.png
     - 效果截屏:
+        .. _undo_btn_h:
+        .. figure:: ../_static/images/manifest/undo_btn_h.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-undo_btn_p:
+
+- undo_btn_p
+
+    - 作用区间:
+        鼠标按下时，撤销按钮的图片。
+    - 关联图片:
+        .. _origin_undo_btn_p:
+        .. figure:: ../_static/images/manifest/origin/undo_button_p.png
+    - 效果截屏:
+        .. _undo_btn_p:
+        .. figure:: ../_static/images/manifest/undo_btn_p.jpg
+    - 建议尺寸:
+    - 其它: `.9图` 规则
+
+
+
+.. _LBMF-undo_btn_d:
+
+- undo_btn_d
+
+    - 作用区间:
+        禁止按下时，撤销按钮的图片。
+    - 关联图片:
+        .. _origin_undo_btn_d:
+        .. figure:: ../_static/images/manifest/origin/undo_button_d.png
+    - 效果截屏:
+        .. _undo_btn_d:
+        .. figure:: ../_static/images/manifest/undo_btn_d.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2341,7 +2525,7 @@
         .. _origin_throbber_waiting:
         .. figure:: ../_static/images/manifest/origin/loading.png
     - 效果截屏:
-        .. _theme_menu_cloud_item_sync_loading:
+        .. _throbber_waiting:
         .. figure:: ../_static/images/manifest/throbber_waiting.jpg
     - 建议尺寸:
 
@@ -2352,8 +2536,13 @@
 - bookmark_bar_folder
 
     - 作用区间:
+        书签栏中书签的默认图标。如果保存的网页没有 favicon.ico 图标，则使用此图标。
     - 关联图片:
+        .. _origin_bookmark_bar_folder:
+        .. figure:: ../_static/images/manifest/origin/bookmark_bar_folder.png
     - 效果截屏:
+        .. _bookmark_bar_folder:
+        .. figure:: ../_static/images/manifest/bookmark_bar_folder.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2364,8 +2553,13 @@
 - bookmark_btn_bk_h
 
     - 作用区间:
+        鼠标hover时，书签背景图片。
     - 关联图片:
+        .. _origin_bookmark_btn_bk_h:
+        .. figure:: ../_static/images/manifest/origin/bookmark_btn_bk_h.png
     - 效果截屏:
+        .. _bookmark_btn_bk_h:
+        .. figure:: ../_static/images/manifest/bookmark_btn_bk_h.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2376,8 +2570,13 @@
 - bookmark_btn_bk_p
 
     - 作用区间:
+        鼠标按下时，书签背景图片。
     - 关联图片:
+        .. _origin_bookmark_btn_bk_p:
+        .. figure:: ../_static/images/manifest/origin/bookmark_btn_bk_p.png
     - 效果截屏:
+        .. _bookmark_btn_bk_p:
+        .. figure:: ../_static/images/manifest/bookmark_btn_bk_p.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 
@@ -2568,8 +2767,13 @@
 - newtab_favicon
 
     - 作用区间:
+        新标签tab页的 favicon 图标。
     - 关联图片:
+        .. _origin_newtab_favicon:
+        .. figure:: ../_static/images/manifest/origin/newtab_favicon.png
     - 效果截屏:
+        .. _newtab_favicon:
+        .. figure:: ../_static/images/manifest/newtab_favicon.jpg
     - 建议尺寸:
     - 其它: `.9图` 规则
 

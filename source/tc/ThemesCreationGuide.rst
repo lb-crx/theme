@@ -24,6 +24,9 @@
 .. _fig_5_t_1:
 .. figure:: ../_static/themes/lb-crx-reference-screenhp.png
 
+.. _fig_5_t_2:
+.. figure:: ../_static/themes/lb-crx-reference-downloadpop.png
+
     主题皮肤可定制元素索引
 
 参考以上图片,标出了所有可以进行定制的主题皮肤元素,
