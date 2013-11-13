@@ -12,6 +12,11 @@
 在猎豹浏览器的皮肤文件中，一共有三个配置文件，分别是：图片显示文件（manifest.json）、图片定位文件（layout_main）、图片参数文件（layout_parameter）。
 其中 layout_main 主要记录的是浏览器在最大化、标准化状态时，各个控制部分的位置。
 
+猎豹浏览器的皮肤配置项有两种布局方式，`layout_normal`和`layout_max`。其中`layout_normal`为猎豹浏览器在非最大化状态时的布局模式，`layout_max`则为猎豹浏览器在最大化状态时的布局模式。我们可以通过这两种不同的配置来控制猎豹浏览器在最大化和非最大化的状态。在此我们使用绿野仙踪来举例。
+
+.. _origin_layout_normal_max:
+.. figure:: ../_static/themes/layout_normal_max.png
+
 在猎豹浏览器的 layout_main 皮肤布局文件中，每一个功能按钮都是使用 `view` 标签表示的，例如控制主页按钮的代码为 `<view id="icon_btn" width="60" relative="left_top" delta="10 0"/>`。
 
 
