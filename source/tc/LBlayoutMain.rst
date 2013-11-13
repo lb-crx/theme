@@ -9,10 +9,10 @@
 什么是 layout_main 文件
 ------------------------------------------------------------------------------
 
-在猎豹浏览器的皮肤文件中，一个有三个配置文件，分别是：图片显示文件（manifest.json）、图片定位文件（layout_main）、图片参数文件（layout_parameter）。
+在猎豹浏览器的皮肤文件中，一共有三个配置文件，分别是：图片显示文件（manifest.json）、图片定位文件（layout_main）、图片参数文件（layout_parameter）。
 其中 layout_main 主要记录的是浏览器在最大化、标准化状态时，各个控制部分的位置。
 
-
+在猎豹浏览器的 layout_main 皮肤布局文件中，每一个功能按钮都是使用 `view` 标签表示的，例如控制主页按钮的代码为 `<view id="icon_btn" width="60" relative="left_top" delta="10 0"/>`。
 
 
 
