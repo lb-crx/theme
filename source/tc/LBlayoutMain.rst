@@ -14,19 +14,21 @@
 
 猎豹浏览器的皮肤配置项有两种布局方式，`layout_normal`和`layout_max`。其中`layout_normal`为猎豹浏览器在非最大化状态时的布局模式，`layout_max`则为猎豹浏览器在最大化状态时的布局模式。我们可以通过这两种不同的配置来控制猎豹浏览器在最大化和非最大化的状态。在此我们使用绿野仙踪来举例。
 
-.. _origin_layout_normal_max:
+.. _layout_normal_max:
 .. figure:: ../_static/themes/layout_normal_max.png
 
 在猎豹浏览器的 layout_main 皮肤布局文件中，每一个功能按钮都是使用 `view` 标签表示的，例如控制主页按钮的代码为 `<view id="icon_btn" width="60" relative="left_top" delta="10 0"/>`。
 
+.. _layout_normal_all:
+.. figure:: ../_static/themes/layout_main_all.jpg
+
 .. list-table:: view 元素列表
-   :widths: 5 10 25 20
+   :widths: 5 25 10
    :header-rows: 1
 
    * - 标号
      - manifest.json 参数
      - 说明
-     - 样例
    * - 1
      - 头像按钮
      - icon_btn
