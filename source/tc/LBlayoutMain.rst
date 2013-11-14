@@ -19,7 +19,80 @@
 
 在猎豹浏览器的 layout_main 皮肤布局文件中，每一个功能按钮都是使用 `view` 标签表示的，例如控制主页按钮的代码为 `<view id="icon_btn" width="60" relative="left_top" delta="10 0"/>`。
 
+.. list-table:: view 元素列表
+   :widths: 5 10 25 20
+   :header-rows: 1
 
+   * - 标号
+     - manifest.json 参数
+     - 说明
+     - 样例
+   * - 1
+     - 当前选中标签的文字颜色
+     - icon_btn
+   * - 1
+     - 当前选中标签的文字颜色
+     - title_bar
+   * - 1
+     - 当前选中标签的文字颜色
+     - mainmenu_bar
+   * - 1
+     - 当前选中标签的文字颜色
+     - syscmd_bar
+   * - 1
+     - 当前选中标签的文字颜色
+     - fav_menu_btn
+   * - 1
+     - 当前选中标签的文字颜色
+     - home_btn
+   * - 1
+     - 当前选中标签的文字颜色
+     - reload_btn
+   * - 1
+     - 当前选中标签的文字颜色
+     - back_btn
+   * - 1
+     - 当前选中标签的文字颜色
+     - forward_btn
+   * - 1
+     - 当前选中标签的文字颜色
+     - tool_bar
+   * - 1
+     - 当前选中标签的文字颜色
+     - safe_btn
+   * - 1
+     - 当前选中标签的文字颜色
+     - login_magr_btn
+   * - 1
+     - 当前选中标签的文字颜色
+     - download_btn
+   * - 1
+     - 当前选中标签的文字颜色
+     - bookmark_bar
+   * - 1
+     - 当前选中标签的文字颜色
+     - tab_bar
+   * - 1
+     - 当前选中标签的文字颜色
+     - multi_tab_btn
+   * - 1
+     - 当前选中标签的文字颜色
+     - undo_btn
+   * - 1
+     - 当前选中标签的文字颜色
+     - tab_separator
+   * - 1
+     - 当前选中标签的文字颜色
+     - find_bar
+   * - 1
+     - 当前选中标签的文字颜色
+     - info_bar
+   * - 1
+     - 当前选中标签的文字颜色
+     - tab_content
+   * - 1
+     - 当前选中标签的文字颜色
+     - status_bar
 
 
 demo: clasc's layout_main
