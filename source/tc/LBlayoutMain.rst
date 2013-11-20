@@ -95,7 +95,7 @@ view 的 id 元素列表
      - 信息栏
      - info_bar
    * - 21
-     - 
+     - 标签内容
      - tab_content
    * - 22
      - 状态栏
