@@ -9,6 +9,9 @@
 包含的主要内容为 `mainfest.json` 、`layout_main` 和 `layout_parameter` 等配置文件中配置项的具体解释，以及如何制作一款猎豹浏览器专属皮肤的简易教程。
 
 
+文档修改历史
+====================
+
 - 131030 re-init. github
 
 - 130801 init. Intra. @ruby
