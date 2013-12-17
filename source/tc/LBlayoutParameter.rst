@@ -20,6 +20,7 @@ demo: clasc's layout_parameter
 
     {
       "border_thickness_pseudo": "1",
+      // 猎豹浏览器的最小窗口大小，防止窗口过小导致浏览器按钮挤压
       "browser_min_size": "500 250",
 
       "logo_tip_offset": "-6 0",
