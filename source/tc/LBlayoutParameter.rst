@@ -68,12 +68,12 @@ demo: clasc's layout_parameter
       // 标题字体大小
       "title_font_deltasize": "1",
 
-      // 最大化下是否显示恢复历史选项卡按钮，即用按钮替代右键"恢复上一个标签"按钮的功能，删除改句不显示
+      // 最大化下是否显示恢复历史选项卡按钮，即用按钮替代右键"恢复上一个标签"按钮的功能，删除该句不显示
       "undo_btn_has_droparrow": "true",
 
       // 地址输入栏的高度，没特殊需求不建议修改，删除改句即为保持默认
       "locationbar_height": "28",
-      // 是否一直显示”转入“按钮，即地址栏右边的向右箭头，删除改句不显示按钮
+      // 是否一直显示“转入”按钮，即地址栏右边的向右箭头，删除改句不显示按钮
       "loctionbar_always_show_goto": "true",
       // 是否在地址栏栏显示兼容模式按钮，删除改句不显示按钮
       "loctionbar_has_switch_core": "true",
