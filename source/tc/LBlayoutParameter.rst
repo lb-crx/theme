@@ -19,6 +19,7 @@ demo: clasc's layout_parameter
 
 
     {
+      // .9图中标示重复区域的黑线的宽度
       "border_thickness_pseudo": "1",
       // 猎豹浏览器的最小窗口大小，防止窗口过小导致浏览器按钮挤压
       "browser_min_size": "500 250",
