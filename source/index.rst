@@ -19,6 +19,8 @@
     + :ref:`manifest.json 详解 <chapterLBmanifest>`
     + :ref:`layout_parameter 详解 <chapterLBlayoutParameter>`
     + :ref:`layout_main 详解 <chapterLBlayoutMain>`
++ :ref:`猎豹皮肤升级记录列表 <chapter4update>`
+    + :ref:`皮肤升级到4.5 <update45>`
 .. :ref:`Chrome皮肤参考 <chapter5TReference>`
 
 .. toctree::
