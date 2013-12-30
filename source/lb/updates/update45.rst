@@ -1,6 +1,6 @@
 .. include:: ../LINKS.rst
 
-.. _chapter4update:
+.. _update45:
 
 
 猎豹皮肤升级到4.5
@@ -14,16 +14,16 @@
 + 新增五个游戏按钮相关配置
     + "bookmark_bar_separator" 书签栏分隔符
         .. _theme_bookmark_bar_separator:
-        .. figure:: img/line_sep.jpg
+        .. figure:: ../../../../_static/images/manifest/origin/line_sep.png
     + "bookmark_bar_game_icon" 书签栏游戏按钮的普通态
         .. _theme_bookmark_bar_game_icon:
-        .. figure:: img/bookmark_bar_game_icon.jpg
+        .. figure:: ../../../../_static/images/manifest/origin/bookmark_bar_game_icon.png
     + "bookmark_bar_game_dropdown_n" 游戏按钮下拉三角的普通态
         .. _theme_bookmark_bar_game_dropdown_n:
-        .. figure:: img/bookmark_bar_game_dropdown_n.jpg
+        .. figure:: ../../../../_static/images/manifest/origin/bookmark_bar_game_dropdown_n.png
     + "bookmark_bar_game_dropdown_h" 游戏按钮下拉三角的鼠标悬浮态
         .. _theme_bookmark_bar_game_dropdown_h:
-        .. figure:: img/bookmark_bar_game_dropdown_h.jpg
+        .. figure:: ../../../../_static/images/manifest/origin/bookmark_bar_game_dropdown_h.png
     + "bookmark_bar_game_dropdown_h" 游戏按钮下拉三角的鼠标按下态
         .. _theme_bookmark_bar_game_dropdown_p:
-        .. figure:: img/bookmark_bar_game_dropdown_p.jpg
+        .. figure:: ../../../../_static/images/manifest/origin/bookmark_bar_game_dropdown_h.png
