@@ -62,7 +62,7 @@
     + "more_tv_track_p" 猎豹追剧按钮的鼠标按下态
         .. _theme_more_tv_track_p:
         .. figure:: ../../../../_static/images/manifest/origin/more_tv_track_p.png
-+ 新增5个功能按钮在界面上的三态图片（以下图片在 manifest.json 中暂无相关配置信息）
++ 新增三个功能按钮在界面上的三态图片（以下图片在 manifest.json 中暂无相关配置信息）
     + 猎豹翻译按钮在主界面时的普通态
         .. _theme_translate_button_n:
         .. figure:: ../../../../_static/images/manifest/origin/translate_button_n.png
@@ -91,3 +91,4 @@
         .. _theme_weather_button_p:
         .. figure:: ../../../../_static/images/manifest/origin/weather_button_p.png
 
+说明：上面说到的翻译、微信、天气按钮在配置文件中没有相对应的配置项，只适应官方皮肤库的皮肤。
