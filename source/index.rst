@@ -26,10 +26,8 @@
 .. toctree::
     :maxdepth: 1
 
-    tc/LBmanifest.rst
-    tc/LBlayoutMain.rst
-    tc/LBlayoutParameter.rst
-
+..    tc/index.rst
+..    lb/index.rst
 
 
 
