@@ -1,6 +1,7 @@
 .. 图书链接统一定义文件!
 .. 成员相关链接~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. _Zoom.Quiet: http://code.google.com/p/openbookproject/wiki/ZoomQuiet
+.. _Glowin: http://glowface.net
 .. _42: http://en.wikipedia.org/wiki/42_(number)
 
 .. 工程链接收集~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
