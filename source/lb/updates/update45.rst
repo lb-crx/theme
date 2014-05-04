@@ -6,7 +6,7 @@
 猎豹浏览器版本升级到4.5
 ==============================================================================
 
-猎豹浏览器此次更新主要是升级 `manifest.json` 配置文件中的版本号 `manifest_version` 为 8.2；并增加了“更多按钮”，以及它的弹出窗口。
+猎豹浏览器此次更新主要是升级 `manifest.json` 配置文件中的版本号 `manifest_version` 为 `8.2` ；并增加了“更多按钮”，以及它的弹出窗口。
 
 猎豹皮肤版本
 ------------------------------------------------------------------------------
@@ -35,6 +35,8 @@
     .. _theme_update45:
     .. figure:: ../../../../_static/update-img/update45manifest.png
 + 新增三个按钮相关配置
+        .. _update_change:
+        .. figure:: ../../../../_static/update-img/update45-change.png
     + "more_button_n" 书签栏更多功能按钮的普通态
         .. _theme_more_button_n:
         .. figure:: ../../../../_static/images/manifest/origin/more_button_n.png
@@ -90,5 +92,15 @@
     + 天气按钮在主界面时的鼠标按下态
         .. _theme_weather_button_p:
         .. figure:: ../../../../_static/images/manifest/origin/weather_button_p.png
+说明：上面说到的翻译、微信、天气按钮在配置文件中没有相对应的配置项，只适配官方皮肤库的皮肤。
++ `layout_main` 布局配置文件的优化
+    + 新增名称为 button_bar 的 view 标签。此标签主要是控制“游戏助手”、“猎豹追剧”、“猎豹翻译”、“微信”和“猎豹天气”在主界面显示的功能按钮位置。
+        .. _update_button_bar:
+        .. figure:: ../../../../_static/update-img/button_bar.png
 
-说明：上面说到的翻译、微信、天气按钮在配置文件中没有相对应的配置项，只适应官方皮肤库的皮肤。
+        .. _update_button_bar_code:
+        .. figure:: ../../../../_static/update-img/button_bar_code.png
+    + 更改页面元素控制边距的属性，使用 `margin` 属性 来取代 `padding` 标签。例如修改 safe_btn 的功能按钮的 margin 属性的属性值为 4，则是将安全中心功能按钮的左边距设置为4像素；如果是 `margin="0 4 4 0"`，则为左边距为0，上边距为4像素，右边距为4像素，下边距为0。下图为 layout_main 变更内容对比：
+        .. _update_margin_padding:
+        .. figure:: ../../../../_static/update-img/margin_padding.jpg
+
